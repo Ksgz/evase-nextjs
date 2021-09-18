@@ -84,6 +84,13 @@
                 "new_window": true
             },
             {
+                "label": "Discord",
+                "url": "",
+                "style": "icon",
+                "icon_class": "discord",
+                "new_window": true
+            },
+            {
                 "label": "GitHub",
                 "url": "https://github.com/Ksgz",
                 "style": "icon",
