@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Libris Theme",
+    "title": "Evase",
     "path_prefix": "/",
     "palette": "blue",
     "header": {
@@ -51,15 +51,15 @@
                 "has_subnav": false
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
+                "label": "Sign Up",
+                "url": "",
                 "style": "primary",
                 "has_subnav": false
             }
         ]
     },
     "footer": {
-        "content": "&copy; Evase 2021. All rights reserved. Powered using Netlify created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>.",
+        "content": "&copy; Evase 2021. All rights reserved. Powered using Netlify created with <a href=\"\" target=\"_blank\" rel=\"noopener\"></a>.",
         "has_social": true,
         "social_links": [
             {
