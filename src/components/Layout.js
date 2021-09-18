@@ -13,6 +13,31 @@ export default class Body extends React.Component {
     }
 
     componentDidMount() {
+        // Sticky header
+        let offsetY = 0;
+        let ticking = false;
+
+        window.addEventListener('scroll', function (e) {
+            offsetY = window.scrollY;
+            if (!ticking) {
+                window.requestAnimationFrame(function () {
+                    handleHeader(offsetY);
+                    ticking = false;
+                });
+                ticking = true;
+            }
+        });
+
+        function handleHeader(scrollPos) {
+            if (scrollPos > 0) {
+                document.body.classList.add('has--scrolled');
+            } else {
+                document.body.classList.remove('has--scrolled');
+            }
+        }
+    };
+
+    componentDidMount() {
         this.handleVideoEmbeds();
     }
 
@@ -58,7 +83,7 @@ export default class Body extends React.Component {
             }
             return <meta key={index} {...nameAttr} content={value} />;
         });
-
+        
         return (
             <React.Fragment>
                 <Helmet>
