@@ -112,7 +112,7 @@ export default class Header extends React.Component {
             </React.Fragment>
         );
     }
-
+    
     render() {
         const page = _.get(this.props, 'page');
         const pageUrl = _.trim(getPageUrl(page), '/');
