@@ -70,10 +70,10 @@
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/officialevase",
                 "style": "icon",
-                "icon_class": "linkedin",
+                "icon_class": "facebook",
                 "new_window": true
             },
             {
@@ -81,13 +81,6 @@
                 "url": "https://www.instagram.com/officialevase",
                 "style": "icon",
                 "icon_class": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Discord",
-                "url": "",
-                "style": "icon",
-                "icon_class": "discord",
                 "new_window": true
             },
             {
