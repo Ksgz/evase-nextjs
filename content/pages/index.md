@@ -64,6 +64,12 @@ sections:
     title: Our Values
     content: >-
       Evase encourages our students to have aspirations for their life goals, commitment in their studies, and above all fun in all subjects.
+  - title: API Intergrated
+        image: images/feature3.png
+        image_alt: App user profile preview
+        content: >-
+          Evase has intergrated it's website with Instagram's API to display it's
+          state of the art Social Media Post page! 
   - section_id: text-no-img
     type: section_content
     title: What we offer
