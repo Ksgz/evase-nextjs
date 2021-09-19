@@ -47,7 +47,7 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: Creating websites
+    title: Our Values
     content: >-
       Evase encourages our students to have aspirations for their life goals, commitment in their studies, and above all fun in all subjects.
     actions:
