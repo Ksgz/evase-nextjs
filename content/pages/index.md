@@ -69,6 +69,7 @@ sections:
     title: API Intergrated
     image: images/feature3.png
     image_position: right
+<<<<<<< HEAD
     actions:
     label: View
     url: /showcase
@@ -76,6 +77,8 @@ sections:
     has_icon: true
     icon: arrow-right
     icon_position: right
+=======
+>>>>>>> parent of 1d1f896 (Update index.md)
     content: >-
           Evase has intergrated it's website with Instagram's API to display it's
           state of the art Social Media Post page! 
