@@ -3,9 +3,9 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "Libris",
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Libris logo",
+        "title": "EVASE",
+        "logo_img": "images/logo.png",
+        "logo_img_alt": "Evase logo",
         "has_nav": true,
         "nav_links": [
             {
