@@ -66,7 +66,7 @@ sections:
       Evase allocates each subject to having the best teacher, with degrees and worldly experiences, vast portfolios, and more!
   - section_id: text-no-img
     type: section_content
-    title: What We Offer
+    title: What we offer
     content: >-
       We offer a variety of Courses in our catalog such as Computer Languages/Computer Sciences, Economics and Market Trading, Hosting online, Online Safety, and Cyber security. We additionally provide online classes, exercises, and homework, free sources and articles, and well as a state of the art forums for support and sharing ideas. Pushing our hungry learners to become either a developer for a big company or a small project, an economist to analyze the world's economic welfare and conditions, be an online trader, sell, buy and exchange shares and stocks, becoming online safety supervisor and teach others in schools the risks online, Learn cyber security and defend against the dark arts, See what it means to become a professional computer linguist/analyst with wealth of data or hosting and telecommunicating for the world wide web!
     actions:
