@@ -27,13 +27,13 @@
                 "has_subnav": false
             },
             {
-                "label": "Sample Pages",
+                "label": "Support",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Overview",
+                        "label": "FAQ",
                         "url": "/overview",
                         "style": "link"
                     },

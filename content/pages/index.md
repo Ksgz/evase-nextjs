@@ -96,18 +96,14 @@ sections:
     grid_items:
       - title: Overview
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+
         actions:
           - label: Learn More
             url: /overview
             style: link
       - title: Showcase
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        
         actions:
           - label: Learn More
             url: /showcase
@@ -117,28 +113,23 @@ sections:
     background: white
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
