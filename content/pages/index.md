@@ -42,7 +42,7 @@ sections:
     image_position: left
     title: Creating websites
     content: >-
-      Learn more about open-source frameworks like React, Gatsby, Next and how to build your own website using Netlify & Jamsack
+      Learn more about open-source frameworks like React, Gatsby, Next and how to build your own website using Netlify, Jamsack, Vue & Bootstrap!
     actions:
       - label: View Demo
         url: /docs/getting-started
