@@ -4,13 +4,13 @@ backend:
 # This line should *not* be indented
 publish_mode: editorial_workflow
 # This line should *not* be indented
-media_folder: "public/images" # Media files will be stored in the repo under images/uploads
+media_folder: "netlifycms/img" # Media files will be stored in the repo under images/uploads
 # These lines should *not* be indented
-public_folder: "img" # The src attribute for uploaded media will begin with /images/uploads
+public_folder: "netlifycms/img" # The src attribute for uploaded media will begin with /images/uploads
 collections:
-  - name: "public/collection/blog" # Used in routes, e.g., /admin/collections/blog
+  - name: "netlifycms/collection/blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
-    folder: "content" # The path to the folder where the documents are stored
+    folder: "netlify/content" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
