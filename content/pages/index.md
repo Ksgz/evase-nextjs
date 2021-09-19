@@ -111,25 +111,6 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
-    subtitle: >-
-      
-    reviews:
-      - author: Eric Widget
-        avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
-        content: >-
-          
-      - author: Parsley Montana
-        avatar: images/review2.jpg
-        avatar_alt: Parsley Montana's photo
-        content: >-
-          
-      - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
-        content: >-
-          
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
