@@ -22,7 +22,7 @@ seo:
 layout: docs
 ---
 
-Evase is an all-in-one platform designed for users to automate modern web projects. Replace your hosting infrastructure, continuous integration, and deployment pipeline with a single workflow. Integrate dynamic functionality like serverless functions, user authentication, and form handling as your projects grow. We use several supported platforms to help users boot up their projects. These platforms include using Netlify, Firebase, React, Next, Gatsby, Vue and more..
+Evase is an all-in-one platform designed for users to automate modern web projects. Replace your hosting infrastructure, continuous integration, and deployment pipeline with a single workflow. Integrate dynamic functionality like serverless functions, user authentication, and form handling as your projects grow. We use several supported platforms to help users boot up their projects. These platforms include using Netlify, Firebase, React, Next, Gatsby, Bootstrap, Vue and more..
 
 
 ***
