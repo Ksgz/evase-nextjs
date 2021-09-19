@@ -69,16 +69,13 @@ sections:
     title: API Intergrated
     image: images/feature3.png
     image_position: right
-<<<<<<< HEAD
     actions:
-    label: View
-    url: /showcase
-    style: secondary
-    has_icon: true
-    icon: arrow-right
-    icon_position: right
-=======
->>>>>>> parent of 1d1f896 (Update index.md)
+          - label: View
+            url: /showcase
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
     content: >-
           Evase has intergrated it's website with Instagram's API to display it's
           state of the art Social Media Post page! 
@@ -99,21 +96,22 @@ sections:
     grid_items:
       - title: Overview
         content: >-
-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla tortor at, pulvinar orci.
         actions:
           - label: Learn More
             url: /overview
             style: link
       - title: Showcase
         content: >-
-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - label: Learn More
             url: /showcase
             style: link
-  - section_id: reviews
-    type: section_reviews
-    background: white
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
