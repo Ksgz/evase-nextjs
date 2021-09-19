@@ -1,11 +1,11 @@
 ---
-title: Showcase
+title: Social Media Posts
 sections:
   - section_id: hero
     type: section_hero
-    title: Showcase
+    title: Social Media Posts
     image: images/5.jpg
-    content: This is an optional page subtitle
+    content: This is our Social Media Post page
   - section_id: showcase
     type: section_grid
     col_number: three
@@ -27,8 +27,8 @@ sections:
         image: images/9.jpg
         content: Medium inspired blogging theme for Unibit
 seo:
-  title: Showcase
-  description: This is the showcase page
+  title: Social Media Posts
+  description: This is the social media post page
   extra:
     - name: 'og:type'
       value: website
@@ -37,7 +37,7 @@ seo:
       value: Showcase
       keyName: property
     - name: 'og:description'
-      value: This is the showcase page
+      value: This is the social media post page
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:title'
       value: Showcase
     - name: 'twitter:description'
-      value: This is the showcase page
+      value: This is the social media post page
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
