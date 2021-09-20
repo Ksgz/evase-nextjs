@@ -19,7 +19,7 @@ sections:
         style: primary
 seo:
   title: Overview
-  description: This is the overview page
+  description: This is the Frequent Asked Questions Page
   extra:
     - name: 'og:type'
       value: website
@@ -28,7 +28,7 @@ seo:
       value: Overview
       keyName: property
     - name: 'og:description'
-      value: This is the overview page
+      value: This is the Frequent Asked Questions Page
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:title'
       value: Overview
     - name: 'twitter:description'
-      value: This is the overview page
+      value: This is the Frequent Asked Questions Page
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
