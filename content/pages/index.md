@@ -96,7 +96,7 @@ sections:
     grid_items:
       - title: Overview
         content: >-
-         This directs you to our FAQ Page
+         This directs you to our Frequently Asked Questions Page
         actions:
           - label: Learn More
             url: /overview
