@@ -101,7 +101,7 @@ sections:
           - label: Learn More
             url: /overview
             style: link
-      - title: Showcase
+      - title: Media
         content: >-
           This directs you to our Social Media Posts
         actions:
