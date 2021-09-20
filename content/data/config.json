@@ -38,15 +38,15 @@
                         "style": "link"
                     },
                     {
-                        "label": "Showcase",
-                        "url": "/showcase",
+                        "label": "Style Guide",
+                        "url": "/style-guide",
                         "style": "link"
                     }
                 ]
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Showcase",
+                "url": "/Showcase",
                 "style": "link",
                 "has_subnav": false
             },
