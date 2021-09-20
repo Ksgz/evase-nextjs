@@ -1,7 +1,7 @@
 ---
 title: Tools
 excerpt: >-
-  See some interesting tools developed by the Libris community to help automate
+  See some interesting tools developed by the EVASE community to help automate
   parts of your workflow.
 seo:
   title: Tools

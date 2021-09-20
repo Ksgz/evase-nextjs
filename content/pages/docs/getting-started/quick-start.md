@@ -123,7 +123,7 @@ You can build tables with markdown to help you organize information. To add a ta
 
 <hr>
 
-## Start using Libris theme
+## Start using EVASE theme
 
 We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
 

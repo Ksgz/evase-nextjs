@@ -1,5 +1,5 @@
 ---
-title: Introducing The Libris Theme
+title: Introducing The EVASE Theme
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
@@ -8,7 +8,7 @@ date: '2019-04-24'
 thumb_image: images/4.jpg
 image: images/3.jpg
 seo:
-  title: Introducing The Libris Theme
+  title: Introducing The EVASE Theme
   description: >-
     Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
     accumsan
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Introducing The Libris Theme
+      value: Introducing The EVASE Theme
       keyName: property
     - name: 'og:description'
       value: >-
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Introducing The Libris Theme
+      value: Introducing The EVASE Theme
     - name: 'twitter:description'
       value: >-
         Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
