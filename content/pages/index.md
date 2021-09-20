@@ -90,8 +90,8 @@ sections:
         style: primary
   - section_id: features-two-col
     type: section_grid
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
+    title: News & Media
+    subtitle: Stay in touch with our Social Platforms & Blogs / Articles
     col_number: two
     grid_items:
       - title: Overview
