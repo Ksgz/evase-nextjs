@@ -96,20 +96,16 @@ sections:
     grid_items:
       - title: Overview
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+         This directs you to our FAQ Page
         actions:
           - label: Learn More
             url: /overview
             style: link
       - title: Showcase
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          This directs you to our Social Media Posts
         actions:
-          - label: Learn More
+          - label: View
             url: /showcase
             style: link
   - section_id: cta
@@ -128,10 +124,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Libris Theme
+      value: 
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value:
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
@@ -142,7 +138,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Libris Theme
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: 
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
