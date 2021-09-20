@@ -21,8 +21,8 @@
                 "has_subnav": false
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Articles",
+                "url": "/Articles",
                 "style": "link",
                 "has_subnav": false
             },

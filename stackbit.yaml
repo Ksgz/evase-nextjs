@@ -221,12 +221,12 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  blog:
+  Articles:
     type: page
-    urlPath: /blog
-    label: Blog
-    layout: blog
-    file: blog/index.md
+    urlPath: /Articles
+    label: Articles
+    layout: Articles
+    file: Articles/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -259,7 +259,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: blog/**
+    exclude: Articles/**
     fields:
       - type: string
         name: title
@@ -280,10 +280,10 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/blog/{slug}'
+    urlPath: '/Articles/{slug}'
     label: Post
     layout: post
-    folder: blog
+    folder: Articles
     fields:
       - type: string
         name: title
@@ -300,12 +300,12 @@ models:
         required: true
       - type: image
         name: thumb_image
-        label: Image (blog feed)
-        description: The image shown in the blog feed
+        label: Image (Articles feed)
+        description: The image shown in the Articles feed
       - type: string
         name: thumb_image_alt
-        label: Image alt text (blog feed)
-        description: The alt text of the blog feed image
+        label: Image alt text (Articles feed)
+        description: The alt text of the Articles feed image
       - type: image
         name: image
         label: Background Image (single post)
@@ -313,7 +313,7 @@ models:
       - type: string
         name: excerpt
         label: Excerpt
-        description: The excerpt of the post displayed in the blog feed
+        description: The excerpt of the post displayed in the Articles feed
       - type: model
         name: seo
         models:

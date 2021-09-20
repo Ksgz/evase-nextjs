@@ -21,11 +21,11 @@ sections:
       - title: Fjord
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
-        content: A minimal blogging theme for Unibit
+        content: A minimal Articles theme for Unibit
       - title: Ampersand
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+        content: Medium inspired Articles theme for Unibit
 seo:
   title: Social Media Posts
   description: This is the social media post page

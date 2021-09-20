@@ -22,12 +22,12 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: Blog
+      - title: Articles
         content: >-
           Keep updated with the latest news
         actions:
           - label: View Posts
-            url: /blog
+            url: /Articles
             style: link
       - title: Style Guide
         content: >-
@@ -90,8 +90,8 @@ sections:
         style: primary
   - section_id: features-two-col
     type: section_grid
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
+    title: Additonal Categories
+    subtitle: News & Updates
     col_number: two
     grid_items:
       - title: Overview
