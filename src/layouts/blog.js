@@ -5,7 +5,7 @@ import moment from 'moment-strftime';
 import { Layout } from '../components/index';
 import { getPageUrl, withPrefix, Link } from '../utils';
 
-export default class Articles extends React.Component {
+export default class Blog extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
         const title = _.get(post, 'title');
         const thumbImage = _.get(post, 'thumb_image');

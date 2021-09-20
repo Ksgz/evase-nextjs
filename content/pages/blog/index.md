@@ -1,21 +1,21 @@
 ---
-title: Articles
-subtitle: This is an optional subtitle for the Articles page
+title: Blog
+subtitle: This is an optional subtitle for the blog page
 image: images/5.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Articles
-  description: This is the Articles page
+  title: Blog
+  description: This is the blog page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Articles
+      value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the Articles page
+      value: This is the blog page
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
@@ -24,11 +24,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Articles
+      value: Blog
     - name: 'twitter:description'
-      value: This is the Articles page
+      value: This is the blog page
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
-layout: Articles
+layout: blog
 ---

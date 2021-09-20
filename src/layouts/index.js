@@ -1,14 +1,14 @@
 import advanced from './advanced';
-import Articles from './Articles';
+import blog from './blog';
 import docs from './docs';
 import page from './page';
 import post from './post';
 
-export { advanced, Articles, docs, page, post };
+export { advanced, blog, docs, page, post };
 
 export default {
     advanced,
-    Articles,
+    blog,
     docs,
     page,
     post

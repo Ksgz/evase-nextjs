@@ -8,13 +8,13 @@ media_folder: "netlifycms/img" # Media files will be stored in the repo under im
 # These lines should *not* be indented
 public_folder: "netlifycms/img" # The src attribute for uploaded media will begin with /images/uploads
 collections:
-  - name: "netlifycms/collection/Articles" # Used in routes, e.g., /admin/collections/Articles
-    label: "Articles" # Used in the UI
+  - name: "netlifycms/collection/blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
     folder: "netlify/content" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "Articles"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
