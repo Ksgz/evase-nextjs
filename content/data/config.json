@@ -46,7 +46,7 @@
             },
             {
                 "label": "Media Posts",
-                "url": "/Showcase",
+                "url": "/Media",
                 "style": "link",
                 "has_subnav": false
             },

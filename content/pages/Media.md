@@ -6,7 +6,7 @@ sections:
     title: Social Media Posts
     image: images/5.jpg
     content: This is our Social Media Post page
-  - section_id: showcase
+  - section_id: Media
     type: section_grid
     col_number: three
     grid_items:
@@ -34,7 +34,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Showcase
+      value: Media
       keyName: property
     - name: 'og:description'
       value: This is the social media post page
@@ -46,7 +46,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Showcase
+      value: Media
     - name: 'twitter:description'
       value: This is the social media post page
     - name: 'twitter:image'
