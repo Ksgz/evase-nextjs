@@ -52,7 +52,7 @@
             },
             {
                 "label": "Sign Up",
-                "url": "",
+                "url": "/admin",
                 "style": "primary",
                 "has_subnav": false
             }
