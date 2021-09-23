@@ -12,7 +12,7 @@ sections:
     grid_items:
       - title: September 12, 2021
         title_url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
-        image: images/women1sm.jpeg
+        image: images/women2sm.jpeg
         content: Bringing like minds to new innovations.
       - title: September 18, 2021
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
@@ -24,7 +24,7 @@ sections:
         content: Work in progress
       - title: SEPTEMBER 1, 2021
         title_url: 'https://www.instagram.com/p/CTR2licjBZ1/'
-        image: images/iphonesm.jpg
+        image: images/1.jpg
         content: We are live only on Instagram!
       - title: AUGUST 31, 2021
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
