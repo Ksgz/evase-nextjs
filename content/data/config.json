@@ -27,6 +27,24 @@
                 "has_subnav": false
             },
             {
+                "label": "Courses",
+                "url": "#",
+                "style": "link",
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "Law",
+                        "url": "",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Mathematics",
+                        "url": "",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
                 "label": "Support",
                 "url": "#",
                 "style": "link",
