@@ -10,28 +10,12 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: 
-        title_url: ''
-        image: 
-        content: 
-      - title: 
-        title_url: ''
-        image: 
-        content: 
-      - title: 
-        title_url: ''
-        image: 
-        content:
-      - title: 
-        title_url: ''
-        image: 
-        content: 
       - title: September 12, 2021
         title_url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
         image: images/women2sm.jpeg
         content: Bringing like minds to new innovations.
       - title: September 18, 2021
-        title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
+        title_url: 'https://www.instagram.com/p/CT-pF7asZBe/'
         image: images/women1sm.jpeg
         content: Our team ensures the best security rules for our backend systems.
       - title: September 3, 2021
