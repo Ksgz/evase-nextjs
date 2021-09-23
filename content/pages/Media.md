@@ -36,11 +36,11 @@ sections:
         content: Our team ensures the best security rules for our backend systems.
       - title: September 3, 2021
         title_url: 'https://www.instagram.com/p/CTWuHnwjtYx/'
-        image: images/logo.png
+        image: images/pcsm.jpg
         content: Work in progress
       - title: SEPTEMBER 1, 2021
         title_url: 'https://www.instagram.com/p/CTR2licjBZ1/'
-        image: images/1.jpg
+        image: images/iphonesm.jpg
         content: We are live only on Instagram!
       - title: AUGUST 31, 2021
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
