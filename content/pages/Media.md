@@ -10,8 +10,8 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Exto
-        title_url: 'https://themes.stackbit.com/demos/exto/'
+      - title: L DONCEY
+        title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         image: images/6.jpg
         content: A portfolio theme for Unibit
       - title: Fresh
