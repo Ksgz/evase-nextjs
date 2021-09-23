@@ -10,15 +10,14 @@ export default class SectionGrid extends React.Component {
         const titleUrl = _.get(gridItem, 'title_url');
         const content = _.get(gridItem, 'content');
         const image = _.get(gridItem, 'image');
-        const imageUrl = _.get(gridItem, 'image_url');
         const imageAlt = _.get(gridItem, 'image_alt', '');
         const actions = _.get(gridItem, 'actions');
 
         return (
             <div key={index} className="grid-item">
-                <div className="grid-item-inside"> <Link href={withPrefix(imageUrl)}></Link>
+                <div className="grid-item-inside">
                     {image && (
-                        <div className="grid-item-image">  
+                        <div className="grid-item-image">
                             <img src={withPrefix(image)} alt={imageAlt} />
                         </div>
                     )}
