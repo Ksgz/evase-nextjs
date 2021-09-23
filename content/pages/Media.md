@@ -22,10 +22,10 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
         content: A minimal blogging theme for Unibit
-      - title: Ampersand
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+      - title: AUGUST 15, 2019
+        title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
+        image: images/laptopsm.jpg
+        content: Late night coding..
 seo:
   title: Social Media Posts
   description: This is the social media post page
