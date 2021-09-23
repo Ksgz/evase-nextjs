@@ -33,7 +33,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Law",
+                        "label": "Cyber Security",
                         "url": "",
                         "style": "link"
                     },
@@ -43,12 +43,12 @@
                         "style": "link"
                     },
                     {
-                        "label": "HTML",
+                        "label": "HTML & CSS",
                         "url": "",
                         "style": "link"
                     },
                     {
-                        "label": "CSS",
+                        "label": "Law",
                         "url": "",
                         "style": "link"
                     },
