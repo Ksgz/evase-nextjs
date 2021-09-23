@@ -71,7 +71,7 @@ sections:
     image_position: right
     actions:
           - label: View
-            url: /Media
+            url: /media
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -106,7 +106,7 @@ sections:
           This directs you to our Social Media Posts
         actions:
           - label: View
-            url: /Media
+            url: /media
             style: link
   - section_id: cta
     type: section_cta
