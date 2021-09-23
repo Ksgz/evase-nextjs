@@ -10,22 +10,21 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: L DONCEY
+      - title: September 18, 2021
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
-        image: images/6.jpg
-        content: A portfolio theme for Unibit
-      - title: Fresh
-        title_url: 'https://themes.stackbit.com/demos/fresh/'
-        image: images/7.jpg
-        content: A personal theme for Unibit
-      - title: Fjord
-        title_url: 'https://themes.stackbit.com/demos/fjord/'
-        image: images/8.jpg
-        content: A minimal blogging theme for Unibit
-      - title: AUGUST 15, 2019
+        image: images/women1sm.jpg
+        content: Our team ensures the best security rules for our backend systems.
+      - title: September 3, 2021
+        title_url: 'https://www.instagram.com/p/CTWuHnwjtYx/'
+        image: images/logo.png
+        content: Work in progress
+      - title: SEPTEMBER 1, 2021
+        title_url: 'https://www.instagram.com/p/CTR2licjBZ1/'
+        image: images/iphonesm.jpg
+        content: We are live only on Instagram!
+      - title: AUGUST 31, 2021
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         image: images/laptopsm.jpg
-        image_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         content: Late night coding..
 seo:
   title: Social Media Posts
