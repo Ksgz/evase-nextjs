@@ -55,12 +55,16 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 ## Quoting
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Learn how to add a quote to your sentence. 
 
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams
+Example:
+>When Evase was introduced, it was revolutionary! ~ Founder of Evase
 
-Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+<mark>In order to use a quote in your sentence, use the tag</mark> 
 
+```
+Start with <q> and end with </q> in your sentence
+```
 <hr />
 
 ## Unordered Lists
