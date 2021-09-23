@@ -85,7 +85,7 @@
             },
             {
                 "label": "Media Posts",
-                "url": "/Media",
+                "url": "/media",
                 "style": "link",
                 "has_subnav": false
             },
