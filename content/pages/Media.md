@@ -13,18 +13,22 @@ sections:
       - title: L DONCEY
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         image: images/6.jpg
+        image_url:
         content: A portfolio theme for Unibit
       - title: Fresh
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
+        image_url:
         content: A personal theme for Unibit
       - title: Fjord
         title_url: 'https://themes.stackbit.com/demos/fjord/'
         image: images/8.jpg
+        image_url:
         content: A minimal blogging theme for Unibit
       - title: AUGUST 15, 2019
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         image: images/laptopsm.jpg
+        image_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         content: Late night coding..
 seo:
   title: Social Media Posts
