@@ -10,6 +10,22 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
+      - title: 
+        title_url: ''
+        image: 
+        content: 
+      - title: 
+        title_url: ''
+        image: 
+        content: 
+      - title: 
+        title_url: ''
+        image: 
+        content:
+      - title: 
+        title_url: ''
+        image: 
+        content: 
       - title: September 12, 2021
         title_url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
         image: images/women2sm.jpeg
