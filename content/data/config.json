@@ -34,27 +34,27 @@
                 "subnav_links": [
                     {
                         "label": "Cyber Security",
-                        "url": "",
+                        "url": "#",
                         "style": "link"
                     },
                     {
                         "label": "Economics",
-                        "url": "",
+                        "url": "#",
                         "style": "link"
                     },
                     {
                         "label": "HTML & CSS",
-                        "url": "",
+                        "url": "#",
                         "style": "link"
                     },
                     {
                         "label": "Law",
-                        "url": "",
+                        "url": "#",
                         "style": "link"
                     },
                     {
                         "label": "Mathematics",
-                        "url": "",
+                        "url": "#",
                         "style": "link"
                     }
                 ]
