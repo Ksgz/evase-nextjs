@@ -42,7 +42,7 @@ sections:
     image_position: left
     title: Creating websites
     content: >-
-      Learn more about open-source frameworks like React, Gatsby, Next and how to build your own website using Netlify, Jamsack, Vue & Bootstrap!
+      Learn more about open-source frameworks like React, Gatsby, NextJS, VueJS and how to build your own website using Netlify, Jamsack, Vercel & Bootstrap!
     actions:
       - label: View Demo
         url: /docs/getting-started
@@ -83,7 +83,7 @@ sections:
     type: section_content
     title: What we offer
     content: >-
-      We offer a variety of Courses in our catalog such as Computer Languages/Computer Sciences, Economics and Market Trading, Hosting online, Online Safety, and Cyber security. We additionally provide online classes, exercises, and homework, free sources and articles, and well as a state of the art forums for support and sharing ideas. Pushing our hungry learners to become either a developer for a big company or a small project, an economist to analyze the world's economic welfare and conditions, be an online trader, sell, buy and exchange shares and stocks, becoming online safety supervisor and teach others in schools the risks online, Learn cyber security and defend against the dark arts, See what it means to become a professional computer linguist/analyst with wealth of data or hosting and telecommunicating for the world wide web!
+      Did we mention it's all completely free? We offer a variety of Courses in our catalog such as Computer Languages/Computer Sciences, Economics and Market Trading, Hosting online, Online Safety, and Cyber security. We additionally provide online classes, exercises, and homework, free sources and articles, and well as a state of the art forums for support and sharing ideas. Pushing our hungry learners to become either a developer for a big company or a small project, an economist to analyze the world's economic welfare and conditions, be an online trader, sell, buy and exchange shares and stocks, becoming online safety supervisor and teach others in schools the risks online, Learn cyber security and defend against the dark arts, See what it means to become a professional computer linguist/analyst with wealth of data or hosting and telecommunicating for the world wide web!
     actions:
       - label: Get Started
         url: /docs/getting-started/installation

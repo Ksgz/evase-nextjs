@@ -78,6 +78,12 @@
                 ]
             },
             {
+                "label": "Contact Us",
+                "url": "/contact",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
                 "label": "Media Posts",
                 "url": "/Media",
                 "style": "link",
