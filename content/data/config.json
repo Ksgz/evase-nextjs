@@ -38,6 +38,21 @@
                         "style": "link"
                     },
                     {
+                        "label": "Economics",
+                        "url": "",
+                        "style": "link"
+                    },
+                    {
+                        "label": "HTML",
+                        "url": "",
+                        "style": "link"
+                    },
+                    {
+                        "label": "CSS",
+                        "url": "",
+                        "style": "link"
+                    },
+                    {
                         "label": "Mathematics",
                         "url": "",
                         "style": "link"
