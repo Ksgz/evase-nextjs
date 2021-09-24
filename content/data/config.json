@@ -79,7 +79,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "#",
+                "url": "/docs/community",
                 "style": "link",
                 "has_subnav": false
             },
