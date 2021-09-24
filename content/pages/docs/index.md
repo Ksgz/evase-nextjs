@@ -28,10 +28,11 @@ Evase is an all-in-one platform designed for users to automate modern web projec
 ***
 <h3>Getting Started</h3>
 
-<h4>Site Generators:</h4>
+<h4>Static Site Generators:</h4>
 Site generators are designed to automatically create and deploy with a single click of the button. You can choose the type of static websites you wish to generate.
 
-> Deploy a [Next.js] website(https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter)   
+> Deploy a Next.js website
+[->Next.js]((https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter)   
 
 [Morbi ac vulputate enim](https://stackbit.com)
 
