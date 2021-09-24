@@ -31,7 +31,7 @@ layout: docs
 </div>
 
 <h3>Contact Us!</h3>
-To issue any inquires or require any support Email us!
+To issue any enquiry or require any support Email us!
 <h4>Email to support@evase.net</h4>
 <div class="container">
   <form action="action_page.php">
@@ -40,13 +40,12 @@ To issue any inquires or require any support Email us!
   <input type="text" id="fname" name="firstname" placeholder="Your name..">
   <label for="lname">Last Name</label>
   <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-  <label for="issue">Type</label>
+  <label for="issue">Type of Enquiry</label>
   <select id="issue" name="Issue">
   <option value="General Question">General</option>
   <option value="Website Errors/Bugs">Bugs</option>
   <option value="Other">Other</option>
   </select>
-
   <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
