@@ -97,12 +97,12 @@ You can build tables with markdown to help you organize information. To add a ta
 | description | | `string` | Description of the model. Used by some CMS. |
 | fields | | `list` of `objects` | List of Field Models |
 
-## Start using EVASE theme
+## Start using EVASE 
 
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
+We’ve packed this website with powerful features to help you have awesome documentation for your current or next project.
 
 <br>
 
-**Why not start using this theme today?**
+**Why not start using EVASE today?**
 
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
+<a href="/admin" class="button">Sign up</a>
