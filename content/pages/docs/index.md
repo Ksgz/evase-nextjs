@@ -42,3 +42,15 @@ Site generators are designed to automatically create and deploy with a single cl
 
 > Deploy a Jekyll website
 [-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/jekyll-base)
+
+> Deploy a Nuxt website 
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/lukeocodes/nuxt-starter-netlify-cms)
+
+> Deploy a Hexo website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/hexojs/hexo-starter)
+
+> Deploy a Slate website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/slatedocs/slate)
+
+> Deploy a Docusaurus website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/anishkny/docusaurus-base)
