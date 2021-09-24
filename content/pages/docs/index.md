@@ -29,11 +29,16 @@ Evase is an all-in-one platform designed for users to automate modern web projec
 <h3>Getting Started</h3>
 
 <h4>Static Site Generators:</h4>
-Site generators are designed to automatically create and deploy with a single click of the button. You can choose the type of static websites you wish to generate.
+Site generators are designed to automatically create and deploy with a single click of the button. You can choose the type of static websites you wish to generate. For these sites to generate we will use platforms such as Vercel & Netlify. Additional addons such as a headless CMS is provided for Netlify but not vercel. Vercel dedicates to static single pages for fast cache and prerendering like Netlify. To create a project and new repo, Netlify & Vercel both use Github.
 
 > Deploy a Next.js website
 [-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter) 
 
-[Morbi ac vulputate enim](https://stackbit.com)
+> Deploy a Hugo website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo) 
 
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+> Deploy a Gatsby website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default) 
+
+> Deploy a Jekyll website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/jekyll-base)
