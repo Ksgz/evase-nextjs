@@ -32,7 +32,7 @@ layout: docs
 
 <h3>Contact Us!</h3>
 To issue any inquires or require any support Email us!
-<h4>Email:</h4><h2>support@evase.net</h2>
+<h4>Email:support@evase.net</h4>
 
 ## Facebook
 
