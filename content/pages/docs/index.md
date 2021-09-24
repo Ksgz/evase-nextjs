@@ -54,3 +54,20 @@ Site generators are designed to automatically create and deploy with a single cl
 
 > Deploy a Docusaurus website
 [-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/anishkny/docusaurus-base)
+
+> Deploy a VuePress website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/capriosa/vuepress-deploy)
+
+> Deploy a MkDocs website 
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/mkdocs-base)
+
+> Deploy a Eleventy website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
+
+> Deploy a React Static website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/tannerlinsley/react-static-starter)
+
+> Deploy a Gridsome website
+[-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/gridsome/gridsome-starter-default)
+
+
