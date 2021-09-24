@@ -102,10 +102,10 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/officialevase",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/officialevase",
                 "style": "icon",
-                "icon_class": "twitter",
+                "icon_class": "instagram",
                 "new_window": true
             },
             {
@@ -113,13 +113,6 @@
                 "url": "https://www.facebook.com/officialevase",
                 "style": "icon",
                 "icon_class": "facebook",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/officialevase",
-                "style": "icon",
-                "icon_class": "instagram",
                 "new_window": true
             },
             {
