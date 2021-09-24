@@ -34,12 +34,18 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-**This is a paragraph**. [Media](https://evase.net/media/)
 # This is an H1
 ## This is an H2
 ### This is an H3
 #### This is an H4
+**This is a paragraph**. [Style Guide](https://evase.net/style-guide/)
+'''
+[# This is an H1]
+[## This is an H2]
+[### This is an H3]
+[#### This is an H4]
+[**This is a paragraph**. [Style Guide](https://evase.net/style-guide/)]
+'''
 
 ## Quoting
 
