@@ -32,7 +32,7 @@ layout: docs
 
 <h3>Contact Us!</h3>
 To issue any inquires or require any support Email us!
-<h4>Email: support@evase.net</h4>
+<h4>Email to support@evase.net</h4>
 
 >Use out latest [Forums](www.evase.net/forums) site here!
 
