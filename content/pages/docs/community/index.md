@@ -34,6 +34,8 @@ layout: docs
 To issue any inquires or require any support Email us!
 <h4>Email: support@evase.net</h4>
 
+>Use out latest [Forums](www.evase.net/forums) site here!
+
 ## Facebook
 
 We're live on [Facebook](https://www.facebook.com/officialevase/)! Reach us out by commenting or sending us a direct messengers message!
