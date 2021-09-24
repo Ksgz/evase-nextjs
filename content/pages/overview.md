@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Overview
     image: images/5.jpg
-    content: An optional subtitle
+    content: Guides and FAQ
   - section_id: docs-overview
     type: section_docs
     col_number: three
