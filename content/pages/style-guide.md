@@ -68,6 +68,7 @@ Start with <q> and end with </q> in your sentence or use >[text]
 + Line 1
 + Line 2
 + Line 3
+
 ```
 + Line 1
 + Line 2
@@ -79,6 +80,7 @@ Start with <q> and end with </q> in your sentence or use >[text]
 1. Line 1
 2. Line 2
 3. Line 3
+
 ```
 1. Line 1
 2. Line 2
