@@ -40,13 +40,14 @@ layout: page
 #### This is an H4
 **This is a paragraph**. [Style Guide](https://evase.net/style-guide/)
 
-'''
-[# This is an H1]
-[## This is an H2]
-[### This is an H3]
-[#### This is an H4]
-[**This is a paragraph**. Remove the quotation marks to highlight you're text then in add (URL)  "[Style Guide]"(https://evase.net/style-guide/)]
-'''
+```
+# This is an H1
+## This is an H2
+### This is an H3
+#### This is an H4
+**This is a paragraph**. 
+[Style Guide](https://evase.net/style-guide/)
+```
 
 ## Quoting
 
