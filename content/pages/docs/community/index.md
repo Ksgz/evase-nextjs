@@ -49,7 +49,11 @@ To issue any enquiry or require any support Email us!
   <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
+<button>
+	<a href="mailto:myemail@example.com">Contact Me</a>
+</button>
   <input type="submit" value="Submit">
+
 
   </form>
 </div>
