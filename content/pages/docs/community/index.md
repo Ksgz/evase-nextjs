@@ -35,6 +35,7 @@ To issue any enquiry or require any support Email us!
 <h4>Email to support@evase.net</h4>
 
 -----------------------------------------------------------------------------------------------------
+>Contact Form
 <div class="contact-form">
   <form action="contact.php" method="post" id="contact-form">
 
