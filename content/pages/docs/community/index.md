@@ -37,8 +37,10 @@ To issue any enquiry or require any support Email us!
 -----------------------------------------------------------------------------------------------------
 >Contact Form
 <div class="contact-form">
-  <form action="contact.php" method="post" id="contact-form" data-netlify="true">
-
+  <form action="/success" method="post" id="contact-form" data-netlify="true" name="contact">
+          <input type="hidden" name="contact" value="contact" />
+        <p>
+          <label>
   <label for="fname">Full Name</label>
   <input type="text" id="fname" name="fullname" placeholder="Your Full name.. (John Watson)">
   <label for="email">Your Email</label>
