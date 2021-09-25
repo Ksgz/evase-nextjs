@@ -41,6 +41,7 @@ To issue any enquiry or require any support Email us!
           <input type="hidden" name="contact" value="contact" />
         <p>
           <label>
+          ...
   <label for="fname">Full Name</label>
   <input type="text" id="fname" name="fullname" placeholder="Your Full name.. (John Watson)">
   <label for="email">Your Email</label>
