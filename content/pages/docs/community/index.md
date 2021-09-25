@@ -48,8 +48,8 @@ To issue any enquiry or require any support Email us!
   <option value="Bugs">Website Bugs & Errors</option>
   <option value="Other">Other</option>
   </select>
-  <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+  <label for="message">Message</label>
+    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
     <input type="submit" value="Submit">
 
   </form>
