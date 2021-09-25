@@ -34,7 +34,7 @@ layout: docs
 To issue any enquiry or require any support Email us!
 <h4>Email to support@evase.net</h4>
 <div class="container">
-  <form action="action_page.php">
+  <form action="index.php">
 
   <label for="fname">First Name</label>
   <input type="text" id="fname" name="firstname" placeholder="Your name..">
