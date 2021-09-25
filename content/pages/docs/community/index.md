@@ -40,10 +40,12 @@ To issue any enquiry or require any support Email us!
   <input type="text" id="fname" name="firstname" placeholder="Your name..">
   <label for="lname">Last Name</label>
   <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+  <label for="email">Your Email</label>
+  <input type="text" id="email" name="email" placeholder="Your email (example@evase.net)">
   <label for="issue">Type of Enquiry</label>
   <select id="issue" name="Issue">
   <option value="General Question">General</option>
-  <option value="Website Errors/Bugs">Bugs</option>
+  <option value="Bugs">Website Bugs & Errors</option>
   <option value="Other">Other</option>
   </select>
   <label for="subject">Subject</label>
