@@ -54,8 +54,6 @@ To issue any enquiry or require any support Email us!
   <label for="message">Message</label>
     <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
     <input type="submit" value="Submit">
-    <button onclick="myFunction()">Show Snackbar</button>
-    <div id="snackbar">Some text some message..</div>
 
   </form>
 </div>
