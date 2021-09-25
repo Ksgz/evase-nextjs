@@ -33,26 +33,26 @@ layout: docs
 <h3>Contact Us!</h3>
 To issue any enquiry or require any support Email us!
 <h4>Email to support@evase.net</h4>
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+<div class="container">
+  <form action="action_page.php">
+
+  <label for="fname">First Name</label>
+  <input type="text" id="fname" name="firstname" placeholder="Your name..">
+  <label for="lname">Last Name</label>
+  <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+  <label for="issue">Type of Enquiry</label>
+  <select id="issue" name="Issue">
+  <option value="General Question">General</option>
+  <option value="Website Errors/Bugs">Bugs</option>
+  <option value="Other">Other</option>
+  </select>
+  <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+  <input type="submit" value="Submit">
+
+  </form>
+</div>
 
 >Use out latest [Forums](www.evase.net/forums) site here!
 
