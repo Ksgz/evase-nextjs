@@ -34,6 +34,39 @@ layout: docs
 To issue any enquiry or require any support Email us!
 <h4>Email to support@evase.net</h4>
 
+-----------------------------------------------------
+export default function ContactForm() {
+  return (
+    <form name="contact" method="POST">
+      <input type="hidden" name="form-name" value="contact" />
+      <p>
+<input type="text" name="firstname" id="firstname" />
+        <label htmlFor="yourname">
+          Your Name:
+        </label> <br />
+        <input type="text" name="name" id="yourname" />
+      </p>
+      <p>
+        <label htmlFor="youremail">
+          Your Email:
+        </label> <br />
+        <input type="email" name="email" id="youremail" />
+      </p>
+      <p>
+        <label htmlFor="yourmessage">
+          Message:
+        </label> <br />
+        <textarea name="message" id="yourmessage"></textarea>
+      </p>
+      <p>
+        <button type="submit">Send</button>
+      </p>
+    </form>
+  )
+}
+
+-------------------------------------------------------
+
 -----------------------------------------------------------------------------------------------------
 >Contact Form
 <div class="contact-form">
