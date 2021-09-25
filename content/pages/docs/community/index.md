@@ -48,11 +48,21 @@ To issue any enquiry or require any support Email us!
   </select>
   <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    <input type="submit" value="Submit">
 
-<button>
-	<a href="mailto:myemail@example.com">Contact Me</a>
-</button>
-  <input type="submit" value="Submit">
+<h2>Contact Us</h2>
+<form>
+  <label for="name">Name:</label>
+  <input name="name" type="text"/><br/><br/>
+  <label for="email">Email:</label>
+  <input name="email" type="email"/><br/><br/>
+  <label for="name">Message:</label>
+  <textarea name="message"></textarea><br/><br/>
+  <input type="submit"/>
+  <div>
+    <p id="result-text"></p>
+  </div>
+</form>
 
 
   </form>
