@@ -33,28 +33,28 @@ layout: docs
 <h3>Contact Us!</h3>
 To issue any enquiry or require any support Email us!
 <h4>Email to support@evase.net</h4>
-<div class="container">
-  <form action="index.php">
 
-  <label for="fname">First Name</label>
-  <input type="text" id="fname" name="firstname" placeholder="Your name..">
-  <label for="lname">Last Name</label>
-  <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+-----------------------------------------------------------------------------------------------------
+<div class="contact-form">
+  <form action="contact.php" method="post" id="contact-form">
+
+  <label for="fname">Full Name</label>
+  <input type="text" id="fname" name="fullname" placeholder="Your Full name.. (John Watson)">
   <label for="email">Your Email</label>
   <input type="text" id="email" name="email" placeholder="Your email (example@evase.net)">
   <label for="issue">Type of Enquiry</label>
   <select id="issue" name="Issue">
-  <option value="General Question">General</option>
+  <option value="General">General Question</option>
   <option value="Bugs">Website Bugs & Errors</option>
   <option value="Other">Other</option>
   </select>
   <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-  <input type="submit" value="Submit">
+    <input type="submit" value="Submit">
 
   </form>
 </div>
+------------------------------------------------------------------------------------------------------
 
 >Use out latest [Forums](www.evase.net/forums) site here!
 
