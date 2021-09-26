@@ -136,7 +136,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit EVASE Theme
+      value: Educational website
     - name: 'twitter:description'
       value: 
     - name: 'twitter:image'
