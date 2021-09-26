@@ -1,5 +1,5 @@
 ---
-title: Deploy
+title: Vue.js
 seo:
   title: Welcome to the Deployment Page
   description: This is the website deploy page
