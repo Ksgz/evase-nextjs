@@ -41,8 +41,11 @@ Using free or paid templates can be incorperated into you're existing or new pro
 + https://app.stackbit.com/edit/theme
 > Vue Templates
 + https://vuejs.org/resources/themes.html
+> Gatsby Templates
++ https://www.gatsbyjs.com/starters/
 
-> Deploy a Next.js website
+
+> Deploy a Next.js website <
 [-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter) 
 
 > Deploy a Hugo website
