@@ -1,8 +1,8 @@
 ---
-title: Welcome to Evase
+title: Deploy
 seo:
-  title: Welcome to Evase
-  description: This is the documentation page
+  title: Welcome to the Deployment Page
+  description: This is the website deploy page
   extra:
     - name: 'og:type'
       value: website
@@ -27,6 +27,8 @@ layout: docs
 <h4>Static Site Generators:</h4>
 Site generators are designed to automatically create and deploy with a single click of the button. You can choose the type of static websites you wish to generate. For these sites to generate we will use platforms such as Vercel & Netlify. Additional addons such as a headless CMS is provided for Netlify but not vercel. Vercel dedicates to static single pages for fast cache and prerendering like Netlify. To create a project and new repo, Netlify & Vercel both use Github. 
 
+<h3>Using templates</h3>
+<h4></h4>
 > Deploy a Next.js website
 [-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter) 
 
