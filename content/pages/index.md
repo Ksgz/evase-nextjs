@@ -44,8 +44,8 @@ sections:
     content: >-
       Learn more about open-source frameworks like React, Gatsby, NextJS, VueJS and how to build your own website using Netlify, Jamsack, Vercel & Bootstrap!
     actions:
-      - label: View Demo
-        url: /docs/getting-started
+      - label: Deploy site
+        url: /docs/getting-started/deploy
         style: primary
       - label: Get Started
         url: /docs/getting-started
