@@ -1,7 +1,7 @@
 ---
-title: Vue.js
+title: Hugo
 seo:
-  title: 
+  title: Hugo
   description: 
   extra:
     - name: 'og:type'

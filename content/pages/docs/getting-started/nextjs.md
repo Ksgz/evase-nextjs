@@ -1,7 +1,7 @@
 ---
 title: Next.js
 seo:
-  title: 
+  title: Next.js
   description: 
   extra:
     - name: 'og:type'

@@ -1,7 +1,7 @@
 ---
 title: Gatsby
 seo:
-  title: 
+  title: Gatsby
   description: 
   extra:
     - name: 'og:type'

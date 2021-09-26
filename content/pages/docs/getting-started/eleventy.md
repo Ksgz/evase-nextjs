@@ -1,7 +1,7 @@
 ---
 title: Eleventy
 seo:
-  title: 
+  title: Eleventy
   description: 
   extra:
     - name: 'og:type'

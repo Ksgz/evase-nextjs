@@ -1,7 +1,7 @@
 ---
 title: Nuxt
 seo:
-  title: 
+  title: Nuxt
   description: 
   extra:
     - name: 'og:type'
