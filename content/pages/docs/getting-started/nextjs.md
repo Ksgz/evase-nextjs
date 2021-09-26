@@ -1,5 +1,5 @@
 ---
-title: Vue.js
+title: Next.js
 seo:
   title: 
   description: 

@@ -1,5 +1,5 @@
 ---
-title: Vue.js
+title: Nuxt
 seo:
   title: 
   description: 

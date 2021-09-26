@@ -1,5 +1,5 @@
 ---
-title: Vue.js
+title: Eleventy
 seo:
   title: 
   description: 
