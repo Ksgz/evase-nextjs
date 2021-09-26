@@ -22,13 +22,21 @@ seo:
 layout: docs
 ---
 
-<h3>Getting Started</h3>
+------
+<h2>Getting Started</h2>
+--------
 
 <h4>Static Site Generators:</h4>
 Site generators are designed to automatically create and deploy with a single click of the button. You can choose the type of static websites you wish to generate. For these sites to generate we will use platforms such as Vercel & Netlify. Additional addons such as a headless CMS is provided for Netlify but not vercel. Vercel dedicates to static single pages for fast cache and prerendering like Netlify. To create a project and new repo, Netlify & Vercel both use Github. 
 
 <h3>Using templates</h3>
-<h4></h4>
+Using free or paid templates can be incorperated into you're existing or new project. To learn how to add a template is quite simple!
+<h2>1. Finding a template you like from the following:</h2>
+
+>>  Bootstrap Themes
++ https://themes.getbootstrap.com/
++ https://startbootstrap.com/themes 
+
 > Deploy a Next.js website
 [-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter) 
 
