@@ -22,9 +22,9 @@ seo:
 layout: docs
 ---
 
-------
 <h2>Getting Started</h2>
---------
+
+---
 
 <h4>Static Site Generators:</h4>
 Site generators are designed to automatically create and deploy with a single click of the button. You can choose the type of static websites you wish to generate. For these sites to generate we will use platforms such as Vercel & Netlify. Additional addons such as a headless CMS is provided for Netlify but not vercel. Vercel dedicates to static single pages for fast cache and prerendering like Netlify. To create a project and new repo, Netlify & Vercel both use Github. 
