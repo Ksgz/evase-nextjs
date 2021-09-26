@@ -33,9 +33,14 @@ Site generators are designed to automatically create and deploy with a single cl
 Using free or paid templates can be incorperated into you're existing or new project. To learn how to add a template is quite simple!
 <h2>1. Finding a template you like from the following:</h2>
 
->>  Bootstrap Themes
+> Bootstrap Templates
 + https://themes.getbootstrap.com/
 + https://startbootstrap.com/themes 
+> Next & React Templates
++ https://www.creative-tim.com/templates/nextjs
++ https://app.stackbit.com/edit/theme
+> Vue Templates
++ https://vuejs.org/resources/themes.html
 
 > Deploy a Next.js website
 [-> Here](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/next-netlify-starter) 
