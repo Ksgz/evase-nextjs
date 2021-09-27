@@ -1,8 +1,5 @@
 ---
-title: Welcome to Evase
-seo:
-  title: Welcome to the Evase Forums site
-  description: This is the Evase Forums 
+title: Welcome to Evase Forums
 layout: page
 ---
 
