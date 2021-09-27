@@ -1,5 +1,5 @@
 ---
-title: Welcome to Evase Forums
+title: Evase Forums
 layout: page
 ---
 
