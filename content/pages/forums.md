@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Evase Forums
 sections:
   - section_id: hero
     type: section_hero
-    title: Evase
+    title: Forums
 layout: advanced
 ---
 <h1>Currently Unavaliable</h1>
