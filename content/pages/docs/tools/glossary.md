@@ -32,14 +32,42 @@ layout: docs
 an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
 ## A
-### animal
+### 
 
+## B
+### 
 
+## C
+### 
+
+## D
+### 
+
+## E
+### 
+
+## F
+### 
 
 ## G
 ### Glossary
 
 an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
+
+## H
+### 
+
+## I
+### 
+
+## J
+### 
+
+## K
+###
+
+## L
+### 
 
 ## N
 ### Node
@@ -53,12 +81,55 @@ npm is a package manager for the JavaScript programming language maintained by n
 
 <H4>To install existing npm packages</h4>
 
-       npm install (npm i)
+       npm install 
 
 <H4>To install npm package globally </h4>
 
-       npm install -global (npm i -g)   
+       npm install -global 
 
 <H4>To run a local node.js server </h4>
 
        npm start
+
+<H4>To check your npm version </h4>
+
+       npm version
+
+## M
+### 
+
+## O
+### 
+
+## P
+### 
+
+## Q
+### 
+
+## R
+### 
+
+## S
+### 
+
+## T
+### 
+
+## U
+###
+
+## V
+###
+
+## W
+###  
+
+## X
+### 
+
+## Y
+### 
+
+## z
+### 
