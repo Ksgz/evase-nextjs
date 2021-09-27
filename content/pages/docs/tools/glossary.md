@@ -32,22 +32,22 @@ layout: docs
 an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
 ## A
-### 
+### a
 
 ## B
-### 
+### b
 
 ## C
-### 
+### c
 
 ## D
-### 
+### d
 
 ## E
-### 
+### e
 
 ## F
-### 
+### f
 
 ## G
 ### Glossary
@@ -55,19 +55,19 @@ an alphabetical list of words relating to a specific subject, text, or dialect, 
 an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
 ## H
-### 
+### h
 
 ## I
-### 
+### i
 
 ## J
-### 
+### j
 
 ## K
-###
+### k
 
 ## L
-### 
+### l
 
 ## N
 ### Node
@@ -96,40 +96,40 @@ npm is a package manager for the JavaScript programming language maintained by n
        npm version
 
 ## M
-### 
+### m
 
 ## O
-### 
+### o
 
 ## P
-### 
+### p
 
 ## Q
-### 
+### q
 
 ## R
-### 
+### r
 
 ## S
-### 
+### s
 
 ## T
-### 
+### t
 
 ## U
-###
+### u
 
 ## V
-###
+### v
 
 ## W
-###  
+###  w
 
 ## X
-### 
+### x
 
 ## Y
-### 
+### y
 
-## z
-### 
+## Z
+### z
