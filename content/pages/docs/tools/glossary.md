@@ -30,6 +30,7 @@ layout: docs
 ## A
 ## animal
 animal
+
 ## Glossary
 
 an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
