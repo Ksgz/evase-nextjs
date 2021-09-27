@@ -22,7 +22,7 @@ seo:
 layout: docs
 ---
 
-> Did you know? This is Evase's documentation database!
+> Did you know?   This is Evase's documentation database!
 
 Here we provide articles, documentations, guides, tutorials and more!
 
