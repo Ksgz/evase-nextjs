@@ -19,7 +19,7 @@ seo:
       value: Welcome to Evase
     - name: 'twitter:description'
       value: This is the Evase Forums 
-layout: docs
+layout: page
 ---
 
 > Welcome to the Forums
