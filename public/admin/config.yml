@@ -4,15 +4,76 @@ backend:
 media_folder: public/images #images that are uploaded via Netlify Cms interface will be stored in this folder
 public_folder: public/images #I dont know
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "BlogPost" # Used in the UI
-    folder: "public/admin/content" # The path to the folder where the markdown files are stored
-    create: true # Allow users to create new markdown files.
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for front matter. You will need to modify fields according to your project.
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Download", name: "download", widget: "string"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Author", name: "author", widget: "string", default: "Admin"}
-      - {label: "Body", name: "body", widget: "markdown"}
+  - name: post
+    label: Posts
+    folder: content/posts
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - widget: string
+        name: title
+        label: Title
+        required: true
+        hint: >-
+          The title of the blog post
+      - widget: date
+        name: date
+        label: Date
+        required: true
+        hint: >-
+          The date the post is published
+      - widget: string
+        name: slug
+        label: Slug
+        required: true
+        hint: >-
+          The post URL (do not include folder or file extension)
+      - widget: relation
+        name: author
+        label: Author
+        required: true
+        hint: >-
+          The author of the post
+        collection: author
+        valueField: slug
+        searchFields: ['title']
+        displayFields: ['title']
+      - widget: relation
+        name: related_posts
+        label: Related Posts
+        required: false
+        multiple: true
+        hint: >-
+          Other related posts
+        collection: post
+        valueField: slug
+        searchFields: ['title']
+        displayFields: ['title']
+      - widget: markdown
+        name: body
+        label: Content
+        required: true
+        hint: Page content
+  - name: author
+    label: Authors
+    folder: content/authors
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - widget: string
+        name: title
+        label: Name
+        required: true
+        hint: >-
+          The name of the author
+      - widget: string
+        name: slug
+        label: Slug
+        required: true
+        hint: >-
+          The post URL (do not include folder or file extension)
+      - widget: markdown
+        name: body
+        label: Content
+        required: true
+        hint: Author bio
