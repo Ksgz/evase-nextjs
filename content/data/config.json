@@ -116,6 +116,13 @@
                 "new_window": true
             },
             {
+                "label": "Twitter",
+                "url": "https://twitter.com/officialevase",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
                 "label": "GitHub",
                 "url": "https://github.com/Ksgz",
                 "style": "icon",
