@@ -36,42 +36,7 @@ This is an example of the FAQ page.
 
 ## What is Evase?
 
-Praes
+Evase is an all-in-one platform designed for users to automate modern web projects. Replace your hosting infrastructure, continuous integration, and deployment pipeline with a single workflow. Integrate dynamic functionality like serverless functions, user authentication, and form handling as your projects grow. We use several supported platforms to help users boot up their projects. These platforms include using Netlify, Firebase, React, Next, Gatsby, Bootstrap, Vue and more..
 
 <hr />
 
-## Pellentesque id elit mollis, pharetra libero in?
-
-Suspendisse
-<hr />
-
-## Maecenas placerat fermentum libero?
-
-Curabitur 
-<hr />
-
-## Integer massa ante, bibendum sed tellus?
-
-Nunc 
-
-<hr />
-
-## Nulla a interdum turpis, vitae tempus risus?
-
-Vestibulum 
-
-<hr />
-
-## Integer convallis urna consequat luctus commodo?
-
-Aenean 
-<hr />
-
-## Nam consequat convallis purus, at eleifend tellus scelerisque et?
-
-Cras 
-<hr />
-
-## Suspendisse blandit lobortis mi?
-
-Cras
