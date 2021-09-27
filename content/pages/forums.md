@@ -1,6 +1,6 @@
 ---
-title: Welcome to Evase Forums
-layout: page
+title: Evase Forums
+layout: advanced
 ---
 
 > Welcome to the Forums
