@@ -90,6 +90,12 @@
                 "has_subnav": false
             },
             {
+                "label": "Forums",
+                "url": "/forums",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
                 "label": "Sign Up",
                 "url": "/admin",
                 "style": "primary",

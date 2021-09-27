@@ -48,3 +48,20 @@ To deploy you're own website, first you need to figure the type of framework you
 
 <hr />
 
+<hr />
+
+## Where can I get help? Contact us!
+
+To contact us head to [Contact-Us](https://evase.net/docs/community) and fill out our form, we'll get back to you in 2 working days by the latest! 
+
+<hr />
+
+<hr />
+
+## What is a Forums?
+
+A forums website is designed for users to interact and discuss new innovative ideas and problems they face. The community helps each other and the Evase staff team also oversees and supports those who need help. 
+
+> Check our [forums](www.evase.net/forums) site here
+
+<hr />
