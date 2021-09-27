@@ -28,7 +28,7 @@ layout: docs
 </div>
 
 ## A
-## animal
+# animal
 animal
 
 ## Glossary
