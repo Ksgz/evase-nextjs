@@ -52,8 +52,13 @@ This command installs a package, and any packages that it depends on. If the pac
 npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.
 
 <H4>To install existing npm packages</h4>
-     npm install (npm i)
+
+      npm install (npm i)
+
 <H4>To install npm package globally </h4>
-     npm install -global (npm i -g)   
+
+      npm install -global (npm i -g)   
+
 <H4>To run a local node.js server </h4>
+
       npm start
