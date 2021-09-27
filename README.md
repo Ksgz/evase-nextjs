@@ -1,5 +1,6 @@
-# ✨ Evase Theme ✨
+# ✨ www.evase.net ✨
 
+To contact me use email support@evase.net
 
 ## Quick Start 🏎
 
