@@ -31,6 +31,10 @@ layout: docs
 
     an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
+## Glossary
+
+an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
+
 ## A
   ### animal
     animal
