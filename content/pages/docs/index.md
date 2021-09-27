@@ -1,7 +1,7 @@
 ---
 title: Welcome to Evase
 seo:
-  title: Welcome to Evase
+  title: Welcome to the Evase Documentation's section
   description: This is the documentation page
   extra:
     - name: 'og:type'
@@ -22,7 +22,8 @@ seo:
 layout: docs
 ---
 
-> Welcome to Evase's documentation database!
+> Did you know? This is Evase's documentation database!
+
 Here we provide articles, documentations, guides, tutorials and more!
 
 <hr />
