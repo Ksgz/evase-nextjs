@@ -25,7 +25,7 @@ seo:
 layout: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+UI elements or user interface elements are the most integral part of a software application, regardless of whether it's a mobile, web, desktop, or Augmented Reality or Virtual Reality app. UI elements are the core building blocks for all applications.
 
 ***
 
