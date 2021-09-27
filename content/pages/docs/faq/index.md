@@ -40,3 +40,11 @@ Evase is an all-in-one platform designed for users to automate modern web projec
 
 <hr />
 
+<hr />
+
+## How can I deploy my own website?
+
+To deploy you're own website, first you need to figure the type of framework you will use, it may be react, nextjs, vuejs, gatsby, jeykll, hugo etc. Once you've decided head to [Getting-Started](https://evase.net/docs/getting-started) category to learn more about you're framework and the steps to building or automatic netlify deploy on the [Deploy](https://evase.net/docs/getting-started/deploy) page.
+
+<hr />
+
