@@ -1,8 +1,6 @@
 ---
 title: Evase Forums
 sections:
-  - section_id: hero
-    type: section_hero
     title: Forums
 layout: advanced
 ---
