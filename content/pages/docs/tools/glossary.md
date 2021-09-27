@@ -34,30 +34,26 @@ an alphabetical list of words relating to a specific subject, text, or dialect, 
 ## A
 ### animal
 
-animal
 
-### animal
-
-animal
-
-### animal
-
-animal
-
-### animal
-
-animal
 
 ## G
 ### Glossary
 
 an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
-
-## Node
+## N
+### Node
 
 This command installs a package, and any packages that it depends on. If the package has a package-lock or shrinkwrap file, the installation of dependencies will be driven by that, with an npm-shrinkwrap.json taking precedence if both files exist. See package-lock.json and npm-shrinkwrap.
 
 
-## NPM
+### NPM
 
+npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.
+
+<H4>To install existing npm packages</h4>
+    npm install (npm i)
+<H4>To install npm package globally </h4>
+    npm install -global (npm i -g)   
+<H4>To run a local node.js server </h4>
+    npm start
