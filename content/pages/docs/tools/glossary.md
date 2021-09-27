@@ -29,50 +29,30 @@ layout: docs
 
 ## Glossary Definition
 
-    an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
-
-## Glossary
-
 an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
 ## A
-  ### animal
-    animal
-  ### animal
-    animal
-  ### animal
-    animal
-  ### animal
-    animal
+### animal
 
+animal
 
-## Glossary
+### animal
 
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
+animal
 
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
+### animal
 
+animal
 
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
+### animal
 
+animal
 
-
+## G
+### Glossary
 
 an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
-
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
-
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
-
-
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
-
-
-an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
 
 ## Node
 
