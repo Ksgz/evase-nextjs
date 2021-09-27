@@ -27,6 +27,10 @@ layout: docs
   <strong>Note:</strong> This is the glossary content. The primary function of this content is to display key terms and it's definitions. There is a more detailed explanation in the <strong>glossary</strong> definition.
 </div>
 
+## Glossary Definition
+
+    an alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.
+
 ## A
   ### animal
     animal
