@@ -1,6 +1,6 @@
 ---
 title: Evase Forums
-layout: advanced
+layout: default
 ---
 
 > Welcome to the Forums
