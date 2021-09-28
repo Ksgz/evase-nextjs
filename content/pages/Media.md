@@ -10,6 +10,10 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
+      - title: September 28, 2021
+        title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
+        image: images/pcsm2.jpeg
+        content: How's your evening spent?
       - title: September 12, 2021
         title_url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
         image: images/women2sm.jpeg
