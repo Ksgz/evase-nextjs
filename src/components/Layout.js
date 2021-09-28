@@ -67,6 +67,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={seoDescription} />
+                    <meta name="facebook-domain-verification" content="m5ziozdi1up8tkaqveb5v5ihj5x2s0" />
                     {!_.isEmpty(seoRobots) && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
                     <link rel="preconnect" href="https://fonts.gstatic.com" />
