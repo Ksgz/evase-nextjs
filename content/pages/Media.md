@@ -12,7 +12,7 @@ sections:
     grid_items:
       - title: September 28, 2021
         title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
-        image: images/pcsm2.jpeg
+        image: images/pcsm2.jpg
         content: How's your evening spent?
       - title: September 12, 2021
         title_url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
