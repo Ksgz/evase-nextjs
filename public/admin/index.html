@@ -3,17 +3,16 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Admin Panel</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <title>Content Management Site</title>
 </head>
 <body>
-  <h1>Test L DONCEY</h1>
+                                  <h1>Test L DONCEY</h1>
     <script>
         if (window.netlifyIdentity) {
           window.netlifyIdentity.on("init", user => {
             if (!user) {
               window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
+                document.location.href = "/login/";
               });
             }
           });
