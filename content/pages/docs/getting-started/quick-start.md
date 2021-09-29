@@ -131,4 +131,4 @@ We’ve packed this website with powerful features to help you have awesome docu
 
 **Why not start using EVASE today?**
 
-<a href="/admin" class="button">Sign up</a>
+<a href="/login" class="button">Sign up</a>
