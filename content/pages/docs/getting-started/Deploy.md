@@ -3,23 +3,10 @@ title: Deploy
 seo:
   title: Welcome to the Deployment Page
   description: This is the website deploy page
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Welcome to Evase
-      keyName: property
-    - name: 'og:description'
-      value: This is the documentation page
-      keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Welcome to Evase
-    - name: 'twitter:description'
-      value: This is the documentation page
-    - grid_items:
+  - section_id: Deploy
+    type: section_grid
+    col_number: three
+    grid_items:
       - title: September 28, 2021
         title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
         image: images/pcsm2.jpg
@@ -44,6 +31,22 @@ seo:
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         image: images/laptopsm.jpg
         content: Late night coding..
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Welcome to Evase
+      keyName: property
+    - name: 'og:description'
+      value: This is the documentation page
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: Welcome to Evase
+    - name: 'twitter:description'
+      value: This is the documentation page
 layout: docs
 ---
 
