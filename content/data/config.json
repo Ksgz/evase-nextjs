@@ -60,24 +60,6 @@
                 ]
             },
             {
-                "label": "Support",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Guides & FAQ",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Style Guide",
-                        "url": "/style-guide",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
                 "label": "Contact Us",
                 "url": "/docs/community",
                 "style": "link",
