@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
-layout: page
+layout: docs
 ---
 # This is an H1
 ## This is an H2
