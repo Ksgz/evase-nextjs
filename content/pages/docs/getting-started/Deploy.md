@@ -19,10 +19,7 @@ seo:
       value: Welcome to Evase
     - name: 'twitter:description'
       value: This is the documentation page
-      - section_id: Media
-    type: section_grid
-    col_number: three
-    grid_items:
+    - grid_items:
       - title: September 28, 2021
         title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
         image: images/pcsm2.jpg
