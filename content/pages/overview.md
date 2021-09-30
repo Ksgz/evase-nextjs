@@ -11,8 +11,8 @@ sections:
     col_number: three
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Evase is a non-profit organization
+    subtitle: This website does not generate any revenue. All resources are free and useable without permission.
     actions:
       - label: Get Started
         url: /docs/getting-started
