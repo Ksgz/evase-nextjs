@@ -3,6 +3,7 @@ title: Deploy
 seo:
   title: Welcome to the Deployment Page
   description: This is the website deploy page
+  sections:
   - section_id: Deploy
     type: section_grid
     col_number: three
