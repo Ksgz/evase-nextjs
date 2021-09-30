@@ -34,7 +34,7 @@ sections:
           Website style guide for coders.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /docs/manage-content/style-guide
             style: link
   - section_id: text-img
     type: section_content
@@ -110,8 +110,8 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Evase is a non-profit organization
+    subtitle: This website does not generate any revenue. All resources are free and useable without permission.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
