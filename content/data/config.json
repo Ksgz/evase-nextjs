@@ -73,12 +73,12 @@
             },
             {
                 "label": "Forums",
-                "url": "/forums",
+                "url": "forum.evase.net",
                 "style": "link",
                 "has_subnav": false
             },
             {
-                "label": "Sign Up",
+                "label": "Admin",
                 "url": "/admin",
                 "style": "primary",
                 "has_subnav": false
