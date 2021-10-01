@@ -74,12 +74,6 @@
             {
                 "label": "Forums",
                 "url": "https://forum.evase.net/",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "label": "Admin",
-                "url": "/admin",
                 "style": "primary",
                 "new_window":true,
                 "has_subnav": false
