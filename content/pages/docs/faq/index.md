@@ -62,6 +62,6 @@ To contact us head to [Contact-Us](https://evase.net/docs/community) and fill ou
 
 A forums website is designed for users to interact and discuss new innovative ideas and problems they face. The community helps each other and the Evase staff team also oversees and supports those who need help. 
 
-> Check our [forums](/forums) site here
+> Check our [forums](https://forum.evase.net/) site here
 
 <hr />

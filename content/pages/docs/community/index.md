@@ -60,7 +60,7 @@ To issue any enquiry or require any support Email us!
 
 ------------------------------------------------------------------------------------------------------
 
->Use out latest [Forums](/forums) site here!
+>Use out latest [Forums](https://forum.evase.net/) site here!
 
 ## Facebook
 

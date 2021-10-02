@@ -29,12 +29,12 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: Style Guide
+      - title: Forums
         content: >-
-          Website style guide for coders.
+          Join the community discussions website
         actions:
           - label: Learn More
-            url: /docs/manage-content/style-guide
+            url: "https://forum.evase.net/"
             style: link
   - section_id: text-img
     type: section_content
