@@ -1,22 +1,6 @@
 ---
 title: Plug-ins
 weight: 2
-sections:
- - section_id: text-img
-    type: section_content
-    title: Firebase
-    image: images/firebase.png
-    image_position: left
-    actions:
-          - label: Firebase
-            url: "https://firebase.google.com/"
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-    content: >-
-          Evase has intergrated it's website with Firebase Analytics.
-seo:
   title: Plug-ins
   description: This is the plug-ins page
   extra:
