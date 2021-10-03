@@ -55,7 +55,7 @@ sections:
     title: Why Evase?
     content: >-
       Evase is an educational website aiming to bring the best out of an individual's full potential.
-      We teach our bright students the true meaning of the subject and how it is applied in real-life scenarios. 
+      We teach our bright users the true meaning of the subject and how it is applied in real-life scenarios. 
       Evase allocates each subject to having the best teacher, with degrees and worldly experiences, vast portfolios, and more!
   - section_id: text-img
     type: section_content
@@ -63,7 +63,7 @@ sections:
     image_position: left
     title: Our Values
     content: >-
-      Evase encourages our students to have aspirations for their life goals, commitment in their studies, and above all fun in all subjects.
+      Evase encourages our users to have aspirations for their life goals, commitment in their studies, and above all fun in all subjects.
   - section_id: text-img
     type: section_content
     title: API Intergrated
