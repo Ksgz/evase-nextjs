@@ -87,3 +87,28 @@
         outline: 0;
     }
 }
+
+
+#menu-open,
+#menu-close,
+.html-nav .html-nav-toggle,
+.html-nav .html-submenu-toggle,
+.submenu-toggle {
+    background: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    color: inherit;
+    cursor: pointer;
+    display: block;
+    font-size: inherit;
+    height: 30px;
+    padding: 0;
+    position: relative;
+    width: 30px;
+
+    &:hover,
+    &:focus,
+    &:active {
+        outline: 0;
+}
