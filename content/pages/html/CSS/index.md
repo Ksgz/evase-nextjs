@@ -1,5 +1,5 @@
 ---
-title: HTML & CSS
+title: CSS
 seo:
   title: Welcome to the Evase HTML & CSS Course
   description: This is the HTML & CSS Course

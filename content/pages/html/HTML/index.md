@@ -1,28 +1,28 @@
 ---
-title: Welcome to Evase
+title: HTML 
 seo:
-  title: Welcome to the Evase Documentation's section
-  description: This is the documentation page
+  title: Welcome to the Evase HTML Course
+  description: This is the HTMLCourse
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Welcome to Evase
+      value: This is the HTML Course
       keyName: property
     - name: 'og:description'
-      value: This is the documentation page
+      value: This is the HTML  Course
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Welcome to Evase
     - name: 'twitter:description'
-      value: This is the documentation page
+      value: This is the HTML  Course
 layout: html
 ---
 
-> Learning HTML & CSS 
+> Learning HTML 
 
 Here we provide articles, documentations, guides, tutorials and more!
 
