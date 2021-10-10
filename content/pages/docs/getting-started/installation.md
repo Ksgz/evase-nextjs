@@ -25,103 +25,15 @@ layout: docs
 
 <div class="note">
   <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  These applications are required in order to continue your project. You must have the following: Visual Studio Code, npm installed, node.js installed and you're framework package installed.
 </div>
 
 <hr>
 
-## Callouts
+## Creating a project
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
+Head over to, **visual studio code** and install the latest version avaliable. The link to [download](https://code.visualstudio.com/download) can be found here. Install **Node.js**. to continue for react based essentials. The link to [download](https://nodejs.org/) can be found here.  `html` code with class `important` or `note`. Like in the example bellow. 
 
-### HTML example
-
-Copy the code and modify these blocks according to your needs.
-
-```
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
-```
-
-```
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-```
-
-### Live example
-
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
-
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-
-<hr>
-
-## Code blocks
-
-<div class="note">
-  <strong>Note:</strong>
-  Code blocks have copy functionality. To copy the code press the grey button located in the right side top corner.
-</div>
-
-You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
-
-<pre>```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
-
-```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-
-<hr>
-
-## Tables
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-<pre>
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-</pre>
-
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-
-<div class="note">
-  <strong>Note:</strong> 
-  Creating tables with hyphens and pipes can be time-consuming. To speed up the process, try using the <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
-</div>
-
-<hr>
 
 ## Start using EVASE 
 
