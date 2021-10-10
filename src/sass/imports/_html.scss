@@ -1,9 +1,9 @@
-.docs-content {
+.html-content {
     padding-top: 2.5em;
 }
 
 .post {
-    &.type-docs {
+    &.type-html {
         margin-bottom: 5.625em;
         max-width: $container-md;
 
@@ -94,7 +94,7 @@
     }
 }
 
-#docs-section-items {
+#html-section-items {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
@@ -104,13 +104,13 @@
     margin-right: -0.3125em;
     padding: 0;
 
-    .docs-section-item {
+    .html-section-item {
         -ms-flex: 1 1 240px;
         flex: 1 1 240px;
         margin: 0 0.3125em 0.9375em;
     }
 
-    .docs-item-link {
+    .html-item-link {
         border: 1px solid $gray-300;
         border-radius: $border-radius-sm;
         color: $gray-700;
@@ -129,10 +129,10 @@
     }
 }
 
-.docs-nav {
+.html-nav {
     margin-bottom: 1.875em;
 
-    .docs-nav-toggle {
+    .html-nav-toggle {
         color: $gray-700;
         font-size: 1.125em;
         margin: 0;
@@ -141,7 +141,7 @@
         width: 100%;
     }
 
-    .docs-submenu-toggle {
+    .html-submenu-toggle {
         color: $gray-500;
         position: absolute;
         right: 0;
@@ -149,7 +149,7 @@
     }
 }
 
-#docs-menu {
+#html-menu {
     color: $gray-700;
     font-weight: bold;
     line-height: 1.5;
@@ -157,7 +157,7 @@
     margin: 0;
     padding: 0;
 
-    & > .docs-menu-item > a {
+    & > .html-menu-item > a {
         padding: 0.1875em 0;
     }
 
@@ -177,7 +177,7 @@
     }
 }
 
-.docs-submenu {
+.html-submenu {
     border-left: 1px solid $gray-300;
     color: $gray-600;
     display: none;
@@ -188,7 +188,7 @@
     padding-left: 1.25rem;
 }
 
-.docs-menu-item {
+.html-menu-item {
     color: inherit;
     margin-bottom: 0.625rem;
 
@@ -197,11 +197,11 @@
         position: relative;
 
         &.active {
-            .docs-submenu {
+            .html-submenu {
                 display: block;
             }
 
-            & > .docs-submenu-toggle {
+            & > .html-submenu-toggle {
                 .icon-angle-right {
                     -webkit-transform: rotate(135deg);
                     transform: rotate(135deg);
@@ -259,7 +259,7 @@
 
 @media only screen and (min-width: 641px) {
     .post {
-        &.type-docs {
+        &.type-html {
             .post-title,
             .post-content {
                 padding-left: 7%;
@@ -270,19 +270,19 @@
 }
 
 @media only screen and (min-width: 801px) {
-    .docs-content {
+    .html-content {
         display: -ms-flexbox;
         display: flex;
         padding-top: 3.75em;
     }
 
-    .post.type-docs {
+    .post.type-html {
         -ms-flex: 1 1 auto;
         flex: 1 1 auto;
         overflow: hidden;
     }
 
-    .docs-nav,
+    .html-nav,
     .page-nav {
         -ms-flex-negative: 0;
         flex-shrink: 0;
@@ -295,7 +295,7 @@
         }
     }
 
-    .docs-nav {
+    .html-nav {
         padding-right: 1.5em;
         width: 12.5em;
     }
@@ -305,7 +305,7 @@
         width: 9.5em;
     }
 
-    #docs-nav-toggle {
+    #html-nav-toggle {
         display: none;
     }
 }
@@ -317,7 +317,7 @@
 }
 
 @media only screen and (max-width: 800px) {
-    .docs-nav {
+    .html-nav {
         background: #fff;
         border: 1px solid $gray-300;
         border-radius: $border-radius;
@@ -327,16 +327,16 @@
         padding: 0.75em 1em;
     }
 
-    .docs-nav-menu {
+    .html-nav-menu {
         display: none;
     }
 
-    .docs-menu--opened {
-        .docs-nav-menu {
+    .html-menu--opened {
+        .html-nav-menu {
             display: block;
         }
 
-        .docs-nav-toggle {
+        .html-nav-toggle {
             .icon-angle-right {
                 -webkit-transform: rotate(135deg);
                 transform: rotate(135deg);
@@ -344,7 +344,7 @@
         }
     }
 
-    #docs-menu {
+    #html-menu {
         border-top: 1px solid $gray-300;
         margin-top: 1.25em;
         padding-top: 1.25em;
