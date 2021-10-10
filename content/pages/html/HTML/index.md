@@ -1,0 +1,36 @@
+---
+title: Welcome to Evase
+seo:
+  title: Welcome to the Evase Documentation's section
+  description: This is the documentation page
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Welcome to Evase
+      keyName: property
+    - name: 'og:description'
+      value: This is the documentation page
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: Welcome to Evase
+    - name: 'twitter:description'
+      value: This is the documentation page
+layout: html
+---
+
+> Learning HTML & CSS 
+
+Here we provide articles, documentations, guides, tutorials and more!
+
+<hr />
+
+<h4>What is HTML & CSS?</h4>
+HTML (Hypertext Markup Language) provides the structure of the page, this includes adding tagged text files, graphic images and hyperlinks. CSS is the (visual and aural) layout, for a variety of devices. CSS (Cascading Style Sheets) is responsible for the text style, size, positioning, color, and more on a website. It's also what controls how a website's style shifts between desktop and mobile versions
+
+
+***
+
