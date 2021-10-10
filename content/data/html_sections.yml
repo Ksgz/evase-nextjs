@@ -1,4 +1,4 @@
-root_docs_path: /html
+root_html_path: /html
 sections:
   - CSS
   - HTML
