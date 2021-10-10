@@ -194,6 +194,59 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  html_sections:
+    type: data
+    file: html_sections.yml
+    label: html Sections
+    fields:
+      - type: string
+        name: root_html_path
+        label: Root Documentation URL Path
+        description: >-
+          The URL path under which the documentation pages will be generated.
+          For example, value "/" will place all documentation pages at the site
+          root, while value "/docs" will place all documentation pages under the
+          "/html" path.
+        default: /html
+        required: true
+      - type: list
+        name: sections
+        label: Sections
+        description: >-
+          The main sections of the documentation. Every item must be the URL
+          slug representing the section.
+        items:
+          type: string
+  html:
+    type: page
+    urlPath: '/html/{slug}'
+    label: Documentation Pages
+    layout: html
+    folder: html
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: >-
+          The title of the page, used both as a page title and as a navigation
+          menu title
+        required: true
+      - type: number
+        name: weight
+        label: Weight
+        description: >-
+          The navigation order of the documentation page. This value is ignored
+          for parent section pages.
+      - type: string
+        name: excerpt
+        label: Excerpt
+        description: >-
+          Short description of the documentation section. Displayed in
+          documentation overview section.
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   advanced:
     type: page
     label: Advanced Page
