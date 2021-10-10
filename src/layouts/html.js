@@ -123,7 +123,7 @@ export default class html extends React.Component {
     render() {
         const data = _.get(this.props, 'data');
         const config = _.get(data, 'config');
-        const htmlConfig = _.get(data, 'html_sections');
+        const htmlConfig = _.get(data, 'doc_sections');
         const htmlRootPath = _.trim(_.get(htmlConfig, 'root_html_path'), '/');
         const html = _.get(this.props, 'html');
         const page = _.get(this.props, 'page');
