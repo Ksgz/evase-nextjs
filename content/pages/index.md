@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Evase
-    image: images/dotbham2.png
+    image: images/bham4.png
     content: >-
       Learn | Build | Share skills.
     actions:

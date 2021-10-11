@@ -62,8 +62,8 @@ models:
           - green
           - navy
           - violet
-        default: navy
-        required: true
+        default: violet
+        required: false
       - type: model
         name: header
         label: Header Configuration
@@ -517,6 +517,7 @@ models:
           - twitter
           - vimeo
           - youtube
+          - tiktok
       - type: boolean
         name: new_window
         label: Open in new tab/window
