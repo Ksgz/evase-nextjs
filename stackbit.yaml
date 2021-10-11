@@ -62,7 +62,7 @@ models:
           - green
           - navy
           - violet
-        default: blue
+        default: navy
         required: true
       - type: model
         name: header
