@@ -113,20 +113,6 @@
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "#",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "Youtube",
-                "url": "https://www.youtube.com/officialevase",
-                "style": "icon",
-                "icon_class": "youtube",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
                 "url": "https://github.com/Ksgz",
                 "style": "icon",
