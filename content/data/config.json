@@ -106,6 +106,27 @@
                 "new_window": true
             },
             {
+                "label": "Tiktok",
+                "url": "https://www.tiktok.com/@officialevase?lang=en",
+                "style": "icon",
+                "icon_class": "tiktok",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "#",
+                "style": "icon",
+                "icon_class": "LinkedIn",
+                "new_window": true
+            },
+            {
+                "label": "Youtube",
+                "url": "https://www.youtube.com/officialevase",
+                "style": "icon",
+                "icon_class": "youtube",
+                "new_window": true
+            },
+            {
                 "label": "GitHub",
                 "url": "https://github.com/Ksgz",
                 "style": "icon",
