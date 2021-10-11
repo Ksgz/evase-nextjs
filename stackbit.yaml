@@ -63,7 +63,7 @@ models:
           - navy
           - violet
         default: violet
-        required: false
+        required: true
       - type: model
         name: header
         label: Header Configuration
