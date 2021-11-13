@@ -21,7 +21,7 @@ sections:
       - title: Disney's Hercules Fan Page
         title_url: 'thehercules.netlify.app'
         image: herculespage.jpg
-        content: Presenting a Disney's Hercules fan page, this website was created purely as a hobby, designed to challenge my understanding of coding.
+        content: Presenting a Disney's Hercules fan page, this website was created purely as a hobby, designed to challenge my understanding of coding. 
 seo:
   title: Portfolio Page
   description: This is a Private Portfolio Page
