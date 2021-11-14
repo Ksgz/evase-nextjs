@@ -12,15 +12,15 @@ sections:
     grid_items:
       - title: Evase v1.0
         title_url: '#' 
-        image: evase.jpg
+        image: images/evase.jpg
         content: Evase's first website production (Version 1) This was later revamped 2 years later to the current version running. 
       - title: Evase Forums
         title_url: 'forum.evase.net'
-        image: forums.png
+        image: images/forums.png
         content: Evase Forums website, designed as an interactive page for users and staff to communicate.
       - title: Disney's Hercules Fan Page
         title_url: 'thehercules.netlify.app'
-        image: herculespage.jpg
+        image: images/herculespage.jpg
         content: Presenting a Disney's Hercules fan page, this website was created purely as a hobby, designed to challenge my understanding of coding. 
 seo:
   title: Portfolio Page
