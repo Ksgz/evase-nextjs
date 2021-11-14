@@ -12,12 +12,20 @@ sections:
     grid_items:
       - title: Evase v1.0
         title_url: '#' 
+        image: images/evasev2.png
+        content: Evase's first website production (Version 1) This was later revamped 1 years later to V2.
+       - title: Evase v2.0
+        title_url: '#' 
         image: images/evase.png
-        content: Evase's first website production (Version 1) This was later revamped 2 years later to the current version running. 
+        content: Evase's first website was revamped to (Version 2) This was later revamped 2 years later to the current version (v3). This revamp had critical updates which improved the websites security and privacy for users who accessed the site.  
+       - title: Evase v3.0
+        title_url: '#' 
+        image: images/evasev3.png
+        content: Evase is running on the latest version V3. The creator decided to give Evase a new theme and has several new updates (New database intergrated with the forums) 
       - title: Evase Forums
         title_url: "https://forum.evase.net/"
         image: images/forums.png
-        content: Evase Forums website, designed as an interactive page for users and staff to communicate.
+        content: Evase Forums website, designed as an interactive page for users and staff to communicate. (Intergrated with Evase's website)
       - title: Disney's Hercules Fan Page
         title_url: "https://thehercules.netlify.app/"
         image: images/herculespage.png
