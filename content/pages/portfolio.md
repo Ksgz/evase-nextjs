@@ -15,13 +15,17 @@ sections:
         image: images/evase.png
         content: Evase's first website production (Version 1) This was later revamped 2 years later to the current version running. 
       - title: Evase Forums
-        title_url: 'forum.evase.net'
+        title_url: "forum.evase.net"
         image: images/forums.png
         content: Evase Forums website, designed as an interactive page for users and staff to communicate.
       - title: Disney's Hercules Fan Page
-        title_url: 'thehercules.netlify.app'
+        title_url: "thehercules.netlify.app"
         image: images/herculespage.png
         content: Presenting a Disney's Hercules fan page, this website was created purely as a hobby, designed to challenge my understanding of coding. 
+      - title: InfluxSM
+        title_url: "influxsm.netlify.app"
+        image: images/influxsm.png
+        content: InfluxSM was a service page I'd offer to customers, this included natural social media account growth and digital marketing.   
 seo:
   title: Portfolio Page
   description: This is a Private Portfolio Page
