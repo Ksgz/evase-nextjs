@@ -10,16 +10,16 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Evase v1.0
+      - title: Evase v1
         title_url: '#' 
         image: images/evasev2.png
         content: Evase's first website production (Version 1) This was later revamped 1 years later to V2.
-       - title: Evase v2.0
-        title_url: '#' 
+       - title: Evase v2
+        title_url: '#!' 
         image: images/evase.png
         content: Evase's first website was revamped to (Version 2) This was later revamped 2 years later to the current version (v3). This revamp had critical updates which improved the websites security and privacy for users who accessed the site.  
-       - title: Evase v3.0
-        title_url: '#' 
+       - title: Evase v3
+        title_url: '#!!' 
         image: images/evasev3.png
         content: Evase is running on the latest version V3. The creator decided to give Evase a new theme and has several new updates (New database intergrated with the forums) 
       - title: Evase Forums
