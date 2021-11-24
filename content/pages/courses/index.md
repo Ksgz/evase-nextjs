@@ -40,5 +40,5 @@ seo:
     - name: 'twitter:image'
       value: images/law.jpg
       relativeUrl: true
-layout: docs
+layout: advanced
 ---

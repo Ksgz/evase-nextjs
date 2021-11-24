@@ -28,7 +28,7 @@
             },
             {
                 "label": "Courses",
-                "url": "#",
+                "url": "https://evase.net/courses/",
                 "style": "link",
                 "has_subnav": true,
                 "subnav_links": [
