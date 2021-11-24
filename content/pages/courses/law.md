@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:image'
       value: images/law.jpg
       relativeUrl: true
-layout: post
+layout: advanced
 ---
 
 <h1>England and Wales Law</h1>
