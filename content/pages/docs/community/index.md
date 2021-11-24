@@ -36,6 +36,7 @@ To issue any enquiry or require any support Email us!
 
 -----------------------------------------------------------------------------------------------------
 >Contact Form
+<<<<<<< HEAD
 <html lang="en">
 <head>
 
@@ -94,6 +95,28 @@ To issue any enquiry or require any support Email us!
 Your message was sent, thank you!
 </div>
 </div>
+=======
+<div class="contact-form">
+  <form action="/success.html" method="post" id="contact-form" data-netlify="true" name="contact">
+          <input type="hidden" name="contact" value="contact" />
+        <p>
+          <label>
+  <label for="fname">Full Name</label>
+  <input type="text" id="fname" name="fullname" placeholder="Your Full name.. (John Watson)">
+  <label for="email">Your Email</label>
+  <input type="text" id="email" name="email" placeholder="Your email (example@evase.net)">
+  <label for="issue">Type of Enquiry</label>
+  <select id="issue" name="Issue">
+  <option value="General">General Question</option>
+  <option value="Bugs">Website Bugs & Errors</option>
+  <option value="Other">Other</option>
+  </select>
+  <label for="message">Message</label>
+    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
+    <input type="submit" value="Submit">
+
+  </form>
+>>>>>>> parent of 4a389c3 (Contact form test 1)
 </div>
 
 </div>
