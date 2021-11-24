@@ -53,10 +53,18 @@ To issue any enquiry or require any support Email us!
   </select>
   <label for="message">Message</label>
     <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
-    <input type="submit" value="Submit">
-
-  </form>
+        <br>
+      <div class="row">
+        <div class="col-md-12 form-group">
+          <button class="btn pull-right" type="submit">Send</button>
+        </div>
+      </div>
+    </div> </form>
+  </div>
+  <br>
   
+  </form>
+
 ------------------------------------------------------------------------------------------------------
 
 >Use out latest [Forums](https://forum.evase.net/) site here!
