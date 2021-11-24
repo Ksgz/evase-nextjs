@@ -35,8 +35,6 @@ To issue any enquiry or require any support Email us!
 <h4>Email to support@evase.net</h4>
 
 -----------------------------------------------------------------------------------------------------
- <div class="contactbox">
-
  >Contact Form
 <div class="contact-form">
   <form action="/success.html" method="post" id="contact-form" data-netlify="true" name="contact">
@@ -58,8 +56,6 @@ To issue any enquiry or require any support Email us!
     <input type="submit" value="Submit">
 
   </form>
-</div>
-
 ------------------------------------------------------------------------------------------------------
 
 >Use out latest [Forums](https://forum.evase.net/) site here!

@@ -28,11 +28,11 @@ seo:
     - name: 'twitter:image'
       value: images/law.jpg
       relativeUrl: true
-layout: advanced
+layout: docs
 ---
 
 <h1>England and Wales Law</h1>
 
-<h4>Law is a system of rules created and enforced through social or governmental institutions to regulate behavior, with its precise definition a matter of longstanding debate. It has been variously described as a science and the art of justice.</h4>
+<h6>Law is a system of rules created and enforced through social or governmental institutions to regulate behavior, with its precise definition a matter of longstanding debate. It has been variously described as a science and the art of justice.</h6>
 
 
