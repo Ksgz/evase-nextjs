@@ -1,7 +1,7 @@
 {
     "title": "Evase",
     "path_prefix": "/",
-    "palette": "purple",
+    "palette": "violet",
     "header": {
         "title": "EVASE",
         "logo_img": "images/logo.png",
@@ -75,7 +75,7 @@
                 "label": "Forums",
                 "url": "https://forum.evase.net/",
                 "style": "primary",
-                "new_window":true,
+                "new_window": true,
                 "has_subnav": false
             }
         ]
