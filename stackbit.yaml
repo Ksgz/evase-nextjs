@@ -725,3 +725,6 @@ models:
   courses:
     type: data
     label: courses
+    fields:
+      - name: ''
+        type: string
