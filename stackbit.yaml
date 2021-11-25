@@ -727,5 +727,5 @@ models:
     label: courses
     fields:
       - name: Root courses path
-        type: string
+        type: markdown
         label: ''
