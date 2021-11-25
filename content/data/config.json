@@ -75,7 +75,7 @@
                 "label": "Forums",
                 "url": "https://forum.evase.net/",
                 "style": "primary",
-                "new_window":true,
+                "new_window": true,
                 "has_subnav": false
             }
         ]
@@ -120,5 +120,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "favicon": "/images/oldlogo.png"
 }
