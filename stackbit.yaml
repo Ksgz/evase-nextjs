@@ -25,7 +25,6 @@ pageData:
       - '[0].fields.sections.items[0].fields.content'
       - '[1]'
       - '[1].fields.palette'
-nodeVersion: 12
 models:
   config:
     type: data
@@ -195,7 +194,6 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-        label: Seo
   advanced:
     type: page
     label: Advanced Page
@@ -223,7 +221,6 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-        label: Seo
   blog:
     type: page
     urlPath: /blog
@@ -258,13 +255,11 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-        label: Seo
   page:
     type: page
     label: Page
     layout: page
-    exclude:
-      - blog/**
+    exclude: blog/**
     fields:
       - type: string
         name: title
@@ -283,7 +278,6 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-        label: Seo
   post:
     type: page
     urlPath: '/blog/{slug}'
@@ -324,7 +318,6 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-        label: Seo
   section:
     type: object
     label: Section
@@ -341,15 +334,9 @@ models:
   section_content:
     type: object
     label: Content Section
+    extends:
+      - section
     fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the section.
-      - type: string
-        name: section_id
-        label: Section ID
-        description: 'A unique identifier of the section, must not contain whitespace'
       - type: image
         name: image
         label: Image
@@ -377,19 +364,12 @@ models:
           type: model
           models:
             - action
-    labelField: title
   section_cta:
     type: object
     label: CTA Section
+    extends:
+      - section
     fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the section.
-      - type: string
-        name: section_id
-        label: Section ID
-        description: 'A unique identifier of the section, must not contain whitespace'
       - type: string
         name: subtitle
         label: Subtitle
@@ -401,19 +381,12 @@ models:
           type: model
           models:
             - action
-    labelField: title
   section_docs:
     type: object
     label: Documentation Overview Section
+    extends:
+      - section
     fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the section.
-      - type: string
-        name: section_id
-        label: Section ID
-        description: 'A unique identifier of the section, must not contain whitespace'
       - type: string
         name: subtitle
         label: Subtitle
@@ -427,19 +400,12 @@ models:
           - three
         default: three
         required: true
-    labelField: title
   section_grid:
     type: object
     label: Grid Section
+    extends:
+      - section
     fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the section.
-      - type: string
-        name: section_id
-        label: Section ID
-        description: 'A unique identifier of the section, must not contain whitespace'
       - type: string
         name: subtitle
         label: Subtitle
@@ -460,19 +426,12 @@ models:
           type: model
           models:
             - grid_item
-    labelField: title
   section_hero:
     type: object
     label: Hero Section
+    extends:
+      - section
     fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the section.
-      - type: string
-        name: section_id
-        label: Section ID
-        description: 'A unique identifier of the section, must not contain whitespace'
       - type: image
         name: image
         label: Image
@@ -488,7 +447,6 @@ models:
           type: model
           models:
             - action
-    labelField: title
   grid_item:
     type: object
     label: Grid Item
@@ -572,50 +530,9 @@ models:
   action_menu:
     type: object
     label: Parent Action
+    extends:
+      - action
     fields:
-      - type: string
-        name: label
-        label: Label
-        required: true
-      - type: string
-        name: url
-        label: URL
-        required: true
-        default: '#'
-      - type: enum
-        name: style
-        label: Style
-        options:
-          - link
-          - primary
-          - secondary
-          - icon
-        default: link
-        required: true
-      - type: enum
-        name: icon_class
-        label: Icon
-        options:
-          - dev
-          - facebook
-          - github
-          - instagram
-          - linkedin
-          - pinterest
-          - reddit
-          - twitter
-          - vimeo
-          - youtube
-          - tiktok
-      - type: boolean
-        name: new_window
-        label: Open in new tab/window
-        default: false
-      - type: boolean
-        name: no_follow
-        label: No follow
-        default: false
-        description: Add rel="nofollow" attribute to the link
       - type: boolean
         name: has_subnav
         label: Has Sub-Navigation
@@ -627,7 +544,6 @@ models:
           type: model
           models:
             - action
-    labelField: label
   stackbit_page_meta:
     type: object
     label: Page meta data
@@ -670,15 +586,11 @@ models:
             - type: string
               name: name
               default: ''
-              label: Name
             - type: string
               name: value
               default: ''
-              label: Value
             - type: string
               name: keyName
               default: name
-              label: Key Name
             - type: boolean
               name: relativeUrl
-              label: Relative Url
