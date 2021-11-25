@@ -726,3 +726,7 @@ models:
     type: page
     label: law
     layout: law
+    fields:
+      - name: ''
+        type: string
+    labelField: layout
