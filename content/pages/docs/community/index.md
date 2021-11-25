@@ -24,7 +24,6 @@ seo:
       value: This is the community page
 layout: docs
 ---
-
 <div class="note">
   <strong>Note:</strong> 
   This page is used for users to reach us out for support. Contact us now! There is a more detailed explanation in the <strong>Getting Started</strong> section.
@@ -34,8 +33,12 @@ layout: docs
 To issue any enquiry or require any support Email us!
 <h4>Email to support@evase.net</h4>
 
------------------------------------------------------------------------------------------------------
- >Contact Form
+***
+
+***
+
+> Contact Form
+
 <div class="contact-form">
   <form action="/success.html" method="post" id="contact-form" data-netlify="true" name="contact">
           <input type="hidden" name="contact" value="contact" />
@@ -62,12 +65,12 @@ To issue any enquiry or require any support Email us!
     </div> </form>
   </div>
   <br>
-  
+
   </form>
 
-------------------------------------------------------------------------------------------------------
+***
 
->Use out latest [Forums](https://forum.evase.net/) site here!
+> Use out latest [Forums](https://forum.evase.net/) site here!
 
 ## Facebook
 
@@ -80,5 +83,3 @@ We're live on [Instagram](https://www.instagram.com/officialevase/)! Reach us ou
 ## Twitter
 
 We're live on [Twitter](https://twitter.com/officialevase)! Reach us out by retweeting our recent post or sending us a direct message!
-
-
