@@ -26,7 +26,7 @@ sections:
         image: images/women2sm.jpeg
         content: Bringing like minds to new innovations.
         actions:
-          - label: lorem-ipsum
+          - label: View Instagram Post
             url: '#'
             style: link
             icon_class: dev
