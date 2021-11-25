@@ -10,6 +10,21 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
+      - title: lorem-ipsum
+        title_url: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
       - title: 'September 28, 2021'
         title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
         image: images/pcsm2.jpg
@@ -34,21 +49,6 @@ sections:
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         image: images/laptopsm.jpg
         content: Late night coding..
-      - title: lorem-ipsum
-        title_url: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
 seo:
   title: Social Media Posts
   description: This is the social media post page
