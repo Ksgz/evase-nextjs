@@ -726,5 +726,6 @@ models:
     type: data
     label: courses
     fields:
-      - name: ''
+      - name: Root courses path
         type: string
+        label: ''
