@@ -722,11 +722,3 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
-  courses:
-    type: data
-    label: courses
-    fields:
-      - name: Root courses path
-        type: markdown
-        label: ''
-    singleInstance: true
