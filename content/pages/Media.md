@@ -25,6 +25,13 @@ sections:
         title_url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
         image: images/women2sm.jpeg
         content: Bringing like minds to new innovations.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
       - title: 'September 18, 2021'
         title_url: 'https://www.instagram.com/p/CT-pF7asZBe/'
         image: images/women1sm.jpeg
