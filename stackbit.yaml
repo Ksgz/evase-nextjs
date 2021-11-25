@@ -722,7 +722,3 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
-  law:
-    type: page
-    label: law
-    layout: law
