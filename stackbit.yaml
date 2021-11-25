@@ -728,5 +728,5 @@ models:
     layout: law
     fields:
       - name: ''
-        type: string
+        type: url
     labelField: layout
