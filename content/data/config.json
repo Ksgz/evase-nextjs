@@ -121,5 +121,6 @@
             }
         ]
     },
-    "favicon": "/images/favicon-16x16.png"
+    "favicon": "/images/favicon-16x16.png",
+    "domain": "www.evase.net"
 }
