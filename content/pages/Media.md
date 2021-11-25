@@ -24,6 +24,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        title: fdsf
       - title: 'September 28, 2021'
         title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
         image: images/pcsm2.jpg
