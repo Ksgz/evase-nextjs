@@ -34,7 +34,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: /images/1627666984-vecel-vs-netlify.png
+    image: /images/1627666984-vecel-vs-netlify-8b2c3760.png
     image_position: left
     title: Creating websites
     content: >-
