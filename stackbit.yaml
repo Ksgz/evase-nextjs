@@ -729,3 +729,5 @@ models:
       - name: Root courses path
         type: markdown
         label: ''
+    singleInstance: true
+    file: ''
