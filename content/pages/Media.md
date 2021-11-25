@@ -10,30 +10,45 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: September 28, 2021
+      - title: 'September 28, 2021'
         title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
         image: images/pcsm2.jpg
         content: How's your evening spent?
-      - title: September 12, 2021
+      - title: 'September 12, 2021'
         title_url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
         image: images/women2sm.jpeg
         content: Bringing like minds to new innovations.
-      - title: September 18, 2021
+      - title: 'September 18, 2021'
         title_url: 'https://www.instagram.com/p/CT-pF7asZBe/'
         image: images/women1sm.jpeg
         content: Our team ensures the best security rules for our backend systems.
-      - title: September 3, 2021
+      - title: 'September 3, 2021'
         title_url: 'https://www.instagram.com/p/CTWuHnwjtYx/'
         image: images/pcsm.jpg
         content: Work in progress
-      - title: September 1, 2021
+      - title: 'September 1, 2021'
         title_url: 'https://www.instagram.com/p/CTR2licjBZ1/'
         image: images/iphonesm.jpg
         content: We are live only on Instagram!
-      - title: August 31, 2021
+      - title: 'August 31, 2021'
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         image: images/laptopsm.jpg
         content: Late night coding..
+      - title: lorem-ipsum
+        title_url: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
 seo:
   title: Social Media Posts
   description: This is the social media post page
