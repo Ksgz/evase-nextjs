@@ -729,5 +729,3 @@ models:
       - name: Root courses path
         type: markdown
         label: ''
-    singleInstance: true
-    file: courses_sections.yml
