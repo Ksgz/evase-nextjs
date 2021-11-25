@@ -10,8 +10,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: um
-        title_url: lorem-ipsum
+      - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
