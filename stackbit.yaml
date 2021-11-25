@@ -730,4 +730,3 @@ models:
         type: markdown
         label: ''
     singleInstance: true
-    file: ''
