@@ -15,7 +15,7 @@ sections:
         image: images/pcsm2.jpg
         content: How's your evening spent?
         actions:
-          - label: Instagram Post
+          - label: View Instagram Post
             url: '#'
             style: link
             icon_class: dev
