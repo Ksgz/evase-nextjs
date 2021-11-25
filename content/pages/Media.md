@@ -10,21 +10,6 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title_url: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        title: fdsf
       - title: 'September 28, 2021'
         title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
         image: images/pcsm2.jpg
