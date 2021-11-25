@@ -120,5 +120,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "favicon": "/images/favicon-16x16.png"
 }
