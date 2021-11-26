@@ -81,7 +81,7 @@ sections:
             url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
             style: link
             icon_class: instagram
-            new_window: false
+            new_window: true
             no_follow: false
 seo:
   title: Social Media Posts
