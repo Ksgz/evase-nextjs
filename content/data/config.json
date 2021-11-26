@@ -79,7 +79,7 @@
                 "has_subnav": false
             },
             {
-                "label": "economics",
+                "label": "econ",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
