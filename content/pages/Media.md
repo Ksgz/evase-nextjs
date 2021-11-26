@@ -43,7 +43,7 @@ sections:
         image: images/women1sm.jpeg
         content: Our team ensures the best security rules for our backend systems.
         actions:
-          - label: View In
+          - label: View Instagram Post
             url: '#'
             style: link
             icon_class: dev
