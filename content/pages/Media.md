@@ -56,7 +56,7 @@ sections:
         content: Work in progress
         actions:
           - label: View Instagram Post
-            url: '#'
+            url: 'https://www.instagram.com/p/CTWuHnwjtYx/'
             style: link
             icon_class: dev
             new_window: false
