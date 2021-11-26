@@ -53,6 +53,13 @@ sections:
         title_url: 'https://www.instagram.com/p/CTWuHnwjtYx/'
         image: images/pcsm.jpg
         content: Work in progress
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
       - title: 'September 1, 2021'
         title_url: 'https://www.instagram.com/p/CTR2licjBZ1/'
         image: images/iphonesm.jpg
