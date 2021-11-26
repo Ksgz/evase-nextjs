@@ -42,6 +42,13 @@ sections:
         title_url: 'https://www.instagram.com/p/CT-pF7asZBe/'
         image: images/women1sm.jpeg
         content: Our team ensures the best security rules for our backend systems.
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
       - title: 'September 3, 2021'
         title_url: 'https://www.instagram.com/p/CTWuHnwjtYx/'
         image: images/pcsm.jpg
