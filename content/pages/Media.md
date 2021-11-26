@@ -29,7 +29,7 @@ sections:
           - label: View Instagram Post
             url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
             style: link
-            icon_class: dev
+            icon_class: instagram
             new_window: false
             no_follow: false
           - label: View Facebook Post
