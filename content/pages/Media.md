@@ -27,7 +27,7 @@ sections:
         content: Bringing like minds to new innovations.
         actions:
           - label: View Instagram Post
-            url: '#'
+            url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
             style: link
             icon_class: dev
             new_window: false
