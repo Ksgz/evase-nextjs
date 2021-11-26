@@ -71,7 +71,7 @@ sections:
         image: images/iphonesm.jpg
         content: We are live only on Instagram!
         actions:
-          - label: lorem-ipsum
+          - label: View Instagram Post
             url: '#'
             style: link
             icon_class: dev
