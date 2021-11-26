@@ -81,6 +81,13 @@ sections:
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
         image: images/laptopsm.jpg
         content: Late night coding..
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
 seo:
   title: Social Media Posts
   description: This is the social media post page
