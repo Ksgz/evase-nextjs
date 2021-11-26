@@ -48,7 +48,7 @@ sections:
             url: 'https://www.instagram.com/p/CT-pF7asZBe/'
             style: link
             icon_class: instagram
-            new_window: false
+            new_window: true
             no_follow: false
       - title: 'September 3, 2021'
         title_url: 'https://www.instagram.com/p/CTWuHnwjtYx/'
