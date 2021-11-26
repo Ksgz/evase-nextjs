@@ -19,7 +19,7 @@ sections:
             url: '#'
             style: link
             icon_class: dev
-            new_window: false
+            new_window: true
             no_follow: false
       - title: 'September 12, 2021'
         title_url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
