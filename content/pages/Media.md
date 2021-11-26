@@ -78,7 +78,7 @@ sections:
         content: Late night coding..
         actions:
           - label: View Instagram Post
-            url: '#'
+            url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
             style: link
             icon_class: dev
             new_window: false
