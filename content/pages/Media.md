@@ -37,7 +37,7 @@ sections:
               https://www.facebook.com/officialevase/photos/a.112879171113306/118668647201025/
             style: link
             icon_class: facebook
-            new_window: false
+            new_window: true
             no_follow: false
       - title: 'September 18, 2021'
         title_url: 'https://www.instagram.com/p/CT-pF7asZBe/'
