@@ -67,7 +67,7 @@ sections:
         content: We are live only on Instagram!
         actions:
           - label: View Instagram Post
-            url: '#'
+            url: 'https://www.instagram.com/p/CTR2licjBZ1/'
             style: link
             icon_class: dev
             new_window: false
