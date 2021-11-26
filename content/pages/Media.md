@@ -54,7 +54,7 @@ sections:
         image: images/pcsm.jpg
         content: Work in progress
         actions:
-          - label: lorem-ipsum
+          - label: View Instagram Post
             url: '#'
             style: link
             icon_class: dev
