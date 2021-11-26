@@ -47,7 +47,7 @@ sections:
           - label: View Instagram Post
             url: 'https://www.instagram.com/p/CT-pF7asZBe/'
             style: link
-            icon_class: dev
+            icon_class: instagram
             new_window: false
             no_follow: false
       - title: 'September 3, 2021'
