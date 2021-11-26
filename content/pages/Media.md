@@ -70,7 +70,7 @@ sections:
             url: 'https://www.instagram.com/p/CTR2licjBZ1/'
             style: link
             icon_class: instagram
-            new_window: false
+            new_window: true
             no_follow: false
       - title: 'August 31, 2021'
         title_url: 'https://www.instagram.com/p/CTQOgdpjNGU/'
