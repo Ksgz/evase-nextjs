@@ -30,7 +30,7 @@ sections:
             url: 'https://www.instagram.com/p/CUGMqzwM5AG/'
             style: link
             icon_class: instagram
-            new_window: false
+            new_window: true
             no_follow: false
           - label: View Facebook Post
             url: '#'
