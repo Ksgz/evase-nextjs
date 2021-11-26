@@ -18,7 +18,7 @@ sections:
           - label: View Instagram Post
             url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
             style: link
-            icon_class: dev
+            icon_class: instagram
             new_window: true
             no_follow: false
       - title: 'September 12, 2021'
