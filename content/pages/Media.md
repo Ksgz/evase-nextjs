@@ -82,7 +82,7 @@ sections:
         image: images/laptopsm.jpg
         content: Late night coding..
         actions:
-          - label: lorem-ipsum
+          - label: View Instagram Post
             url: '#'
             style: link
             icon_class: dev
