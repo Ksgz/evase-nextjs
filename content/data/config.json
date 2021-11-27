@@ -77,16 +77,6 @@
                 "style": "primary",
                 "new_window": true,
                 "has_subnav": false
-            },
-            {
-                "label": "econ",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "has_subnav": false,
-                "subnav_links": []
             }
         ]
     },
