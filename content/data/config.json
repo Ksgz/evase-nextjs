@@ -6,7 +6,7 @@
         "title": "EVASE",
         "logo_img": "images/logo.png",
         "logo_img_alt": "Evase logo",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
