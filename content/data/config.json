@@ -81,7 +81,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; EVASE 2021.   All rights reserved.<a href=\"\" target=\"_blank\" rel=\"noopener\"></a>",
+        "content": "&copy; EVASE 2022.   All rights reserved.<a href=\"\" target=\"_blank\" rel=\"noopener\"></a>",
         "has_social": true,
         "social_links": [
             {
@@ -96,20 +96,6 @@
                 "url": "https://www.facebook.com/officialevase",
                 "style": "icon",
                 "icon_class": "facebook",
-                "new_window": true
-            },
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/officialevase",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Tiktok",
-                "url": "https://www.tiktok.com/@officialevase?lang=en",
-                "style": "icon",
-                "icon_class": "tiktok",
                 "new_window": true
             },
             {
