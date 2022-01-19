@@ -10,6 +10,28 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
+      - title: 'November 18, 2021'
+        title_url: 'https://www.instagram.com/p/CWb4XCWN1at/'
+        image: images/port.png
+        content: Child projects based on the EVASE foundation
+        actions:
+          - label: View Instagram Post
+            url: 'https://www.instagram.com/p/CWb4XCWN1at/'
+            style: link
+            icon_class: instagram
+            new_window: true
+            no_follow: false              
+      - title: 'October 30, 2021'
+        title_url: 'https://www.instagram.com/p/CVpa5bssuCG/'
+        image: images/hands.png
+        content: Vercel Next.JS Conference was a blast!
+        actions:
+          - label: View Instagram Post
+            url: 'https://www.instagram.com/p/CVpa5bssuCG/'
+            style: link
+            icon_class: instagram
+            new_window: true
+            no_follow: false      
       - title: 'September 28, 2021'
         title_url: 'https://www.instagram.com/p/CUYHGW7Mgpu/'
         image: images/pcsm2.jpg
@@ -83,28 +105,6 @@ sections:
             icon_class: instagram
             new_window: true
             no_follow: false
-      - title: 'October 30, 2021'
-        title_url: 'https://www.instagram.com/p/CVpa5bssuCG/'
-        image: images/hands.png
-        content: Vercel Next.JS Conference was a blast!
-        actions:
-          - label: View Instagram Post
-            url: 'https://www.instagram.com/p/CVpa5bssuCG/'
-            style: link
-            icon_class: instagram
-            new_window: true
-            no_follow: false    
-      - title: 'November 18, 2021'
-        title_url: 'https://www.instagram.com/p/CWb4XCWN1at/'
-        image: images/port.png
-        content: Child projects based on the EVASE foundation
-        actions:
-          - label: View Instagram Post
-            url: 'https://www.instagram.com/p/CWb4XCWN1at/'
-            style: link
-            icon_class: instagram
-            new_window: true
-            no_follow: false                
 seo:
   title: Social Media Posts
   description: This is the social media post page
