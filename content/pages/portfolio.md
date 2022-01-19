@@ -33,7 +33,11 @@ sections:
       - title: InfluxSM
         title_url: 'https://influxsm.netlify.app/'
         image: images/influxsm.png
-        content: InfluxSM was a service page I'd offer to customers, this included natural social media account growth and digital marketing.   
+        content: InfluxSM was a service page I'd offer to customers, this included natural social media account growth and digital marketing.  
+      - title: eSports Gaming Profile 
+        title_url: 'https://esportspage.netlify.app/'
+        image: images/sage.jpg
+        content: A request from a professional eSports Gamer to create a personalised Gaming profile with statistics    
 seo:
   title: Portfolio Page
   description: This is a Private Portfolio Page
